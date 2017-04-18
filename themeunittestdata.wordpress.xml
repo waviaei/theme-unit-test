@@ -1393,9 +1393,11 @@ Also, verify that the Page does not display a "comments are closed" type message
   <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">http://wpthemetestdata.wordpress.com/</guid>
   <description/>
-  <content:encoded><![CDATA[The last item in this page's content is a floated image. Make sure any elements after it are clearing properly.
+  <content:encoded><![CDATA[The last item in this page's content is a thumbnail floated left. There should be page links following it. Make sure any elements after the content are clearing properly. 
 
-<img class="alignleft size-thumbnail wp-image-827" title="Camera" src="http://wpthemetestdata.files.wordpress.com/2010/08/manhattansummer.jpg?w=150" alt="" width="150" height="112" />]]></content:encoded>
+  The float is cleared when it does not stick out the bottom of the parent container, and when other elements that follow it do not wrap around the floated element.
+
+<img class="alignleft size-thumbnail wp-image-827" title="Camera" src="http://wpthemetestdata.files.wordpress.com/2010/08/manhattansummer.jpg?w=150" alt="" width="160" /> <!--nextpage-->This is the second page]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>501</wp:post_id>
   <wp:post_date>2010-08-01 09:42:26</wp:post_date>
@@ -8991,7 +8993,7 @@ Post Page 3]]></content:encoded>
   </wp:postmeta>
 </item>
 <item>
-  <title>Markup: Title <em>With</em> <b>Markup</b></title>
+  <title>Markup: Title With Markup</title>
   <link>https://wpthemetestdata.wordpress.com/2013/01/05/markup-title-with-markup/</link>
   <pubDate>Sat, 05 Jan 2013 17:00:49 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
@@ -8999,8 +9001,8 @@ Post Page 3]]></content:encoded>
   <description/>
   <content:encoded><![CDATA[Verify that:
 <ul>
-	<li>The post title renders the word "with" in <em>italics</em> and the word "markup" in <strong>bold</strong>.</li>
-	<li>The post title markup should be removed from the browser window / tab.</li><li>Any other place the post title is used the markup tags are not shown.</li>
+	<li><span style="line-height:1.714285714;font-size:1rem;">The post title renders the word "with" in </span><em style="line-height:1.714285714;font-size:1rem;">italics</em><span style="line-height:1.714285714;font-size:1rem;"> and the word "markup" in </span><strong style="line-height:1.714285714;font-size:1rem;">bold</strong><span style="line-height:1.714285714;font-size:1rem;">.</span></li>
+	<li><span style="line-height:1.714285714;font-size:1rem;">The post title markup should be removed from the browser window / tab.</span></li>
 </ul>]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>1173</wp:post_id>
@@ -9389,7 +9391,9 @@ And now we're going to shift things to the <em><strong>right align</strong></em>
 
 In just a bit here, you should see the text start to wrap below the right aligned image and settle in nicely. There should still be plenty of room and everything should be sitting pretty. Yeah... Just like that. It never felt so good to be right.
 
-And that's a wrap, yo! You survived the tumultuous waters of alignment. Image alignment achievement unlocked!]]></content:encoded>
+And that's a wrap, yo! You survived the tumultuous waters of alignment. Image alignment achievement unlocked! One last thing: The last item in this post's content is a thumbnail floated right. Make sure any elements after the content are clearing properly.
+
+<img class="alignright size-thumbnail wp-image-827" title="Camera" src="http://wpthemetestdata.files.wordpress.com/2010/08/manhattansummer.jpg?w=150" alt="" width="160" />]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>1177</wp:post_id>
   <wp:post_date>2013-01-10 20:15:40</wp:post_date>
