@@ -8886,7 +8886,7 @@ Post Page 3]]></content:encoded>
   </wp:postmeta>
 </item>
 <item>
-  <title>Markup: Title With Markup</title>
+  <title>Markup: Title <em>With</em> <b>Markup</b></title>
   <link>https://wpthemetestdata.wordpress.com/2013/01/05/markup-title-with-markup/</link>
   <pubDate>Sat, 05 Jan 2013 17:00:49 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
@@ -8894,8 +8894,8 @@ Post Page 3]]></content:encoded>
   <description/>
   <content:encoded><![CDATA[Verify that:
 <ul>
-	<li><span style="line-height:1.714285714;font-size:1rem;">The post title renders the word "with" in </span><em style="line-height:1.714285714;font-size:1rem;">italics</em><span style="line-height:1.714285714;font-size:1rem;"> and the word "markup" in </span><strong style="line-height:1.714285714;font-size:1rem;">bold</strong><span style="line-height:1.714285714;font-size:1rem;">.</span></li>
-	<li><span style="line-height:1.714285714;font-size:1rem;">The post title markup should be removed from the browser window / tab.</span></li>
+	<li>The post title renders the word "with" in <em>italics</em> and the word "markup" in <strong>bold</strong>.</li>
+	<li>The post title markup should be removed from the browser window / tab.</li><li>Any other place the post title is used the markup tags are not shown.</li>
 </ul>]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>1173</wp:post_id>
