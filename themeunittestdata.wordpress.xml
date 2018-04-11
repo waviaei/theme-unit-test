@@ -8993,7 +8993,7 @@ Post Page 3]]></content:encoded>
   </wp:postmeta>
 </item>
 <item>
-  <title>Markup: Title With Markup</title>
+  <title>Markup: Title &lt;em&gt;With&lt;/em&gt; &lt;b&gt;Markup&lt;/b&gt;</title>
   <link>https://wpthemetestdata.wordpress.com/2013/01/05/markup-title-with-markup/</link>
   <pubDate>Sat, 05 Jan 2013 17:00:49 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
@@ -9043,7 +9043,7 @@ Post Page 3]]></content:encoded>
   </wp:postmeta>
 </item>
 <item>
-  <title>Markup: Title With Special Characters</title>
+  <title>Markup: Title With Special Characters ~`!@#$%^&amp;*()-_=+{}[]/\;:&#039;&quot;?,.&gt;</title>
   <link>https://wpthemetestdata.wordpress.com/2013/01/05/title-with-special-characters/</link>
   <pubDate>Sat, 05 Jan 2013 18:00:20 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
