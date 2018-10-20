@@ -1032,12 +1032,67 @@
   <wp:term_slug>testing-menu</wp:term_slug>
   <wp:term_name><![CDATA[Testing Menu]]></wp:term_name>
 </wp:term>
+<wp:term>
+	<wp:term_id><![CDATA[190]]></wp:term_id>
+	<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
+	<wp:term_slug><![CDATA[social-menu]]></wp:term_slug>
+	<wp:term_parent><![CDATA[]]></wp:term_parent>
+	<wp:term_name><![CDATA[Social menu]]></wp:term_name>
+</wp:term>
 <generator>https://wordpress.com/</generator>
 <image>
 		<url>https://s2.wp.com/i/buttonw-com.png</url>
 		<title> &#187; Theme Unit Test Data</title>
 		<link>https://wpthemetestdata.wordpress.com</link>
 	</image>
+<item>
+	<title>Keyboard navigation</title>
+	<link>http://localhost:8080/?page_id=1706</link>
+	<pubDate>Sat, 20 Oct 2018 10:57:04 +0000</pubDate>
+	<dc:creator><![CDATA[themedemos]]></dc:creator>
+	<guid isPermaLink="false">http://localhost:8080/?page_id=1706</guid>
+	<description></description>
+	<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>There are many different ways to use the web besides a mouse and a pair of eyes.  Users navigate for example with a keyboard only or with their voice. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>All the functionality, including menus, links and forms should work using a <strong>keyboard only</strong>. This is essential for all assistive technology to work properly. The only way to test this, at the moment, is manually. The best time to test this is during development.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>How to keyboard test:</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Tab through your pages, links and forms to do the following tests:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Confirm that all links can be reached and activated via keyboard, including any in dropdown submenus.</li><li>Confirm that all links get a visible focus indicator (e.g., a border highlight).</li><li>Confirm that all <a href="https://make.wordpress.org/accessibility/handbook/best-practices/markup/the-css-class-screen-reader-text/">visually hidden links</a> (e.g. <a href="https://make.wordpress.org/accessibility/handbook/best-practices/markup/skip-links/">skip links</a>) become visible when in focus.</li><li>Confirm that all form input fields and buttons can be accessed and used via keyboard.</li><li>Confirm that all interactions, buttons, and other controls can be triggered via keyboard — any action you can complete with a mouse must also be performable via keyboard.</li><li>Confirm that focus doesn’t move in unexpected ways around the page.</li><li>Confirm that using shift+tab to move backwards works as well.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Resources</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li><a href="https://make.wordpress.org/accessibility/handbook/">The Make WordPress Accessibility Handbook </a><ul><li><a href="https://make.wordpress.org/accessibility/handbook/test-for-web-accessibility/">Test for web accessibility</a></li></ul></li><li><a href="https://webaim.org/techniques/keyboard/">Keyboard Accessibility</a> by WebAIM</li><li><a href="http://rianrietveld.com/2016/05/10/keyboard/">Workshop keyboard accessibility</a></li><li><a href="https://make.wordpress.org/themes/handbook/review/accessibility/required/">Theme review accessibility-ready requirements: Keyboard Navigation</a></li></ul>
+<!-- /wp:list -->]]></content:encoded>
+	 <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+	 <wp:post_id>1706</wp:post_id>
+	 <wp:post_date><![CDATA[2018-10-20 10:57:04]]></wp:post_date>
+	 <wp:post_date_gmt><![CDATA[2018-10-20 10:57:04]]></wp:post_date_gmt>
+	 <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+	 <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+	 <wp:post_name><![CDATA[keyboard-navigation]]></wp:post_name>
+	 <wp:status><![CDATA[publish]]></wp:status>
+	 <wp:post_parent>0</wp:post_parent>
+	 <wp:menu_order>0</wp:menu_order>
+	 <wp:post_type><![CDATA[post]]></wp:post_type>
+	 <wp:post_password><![CDATA[]]></wp:post_password>
+	 <wp:is_sticky>0</wp:is_sticky>
+	</item>
 	<item>
   <title>About The Tests</title>
   <link>https://wpthemetestdata.wordpress.com/about/</link>
@@ -1045,7 +1100,7 @@
   <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/about/</guid>
   <description/>
-  <content:encoded><![CDATA[This site is using the standard WordPress Theme Unit Test Data for content. The Theme Unit Test is a series of posts and pages that match up with a checklist on the WordPress codex. You can use the data and checklist together to test your theme.
+  <content:encoded><![CDATA[This site is using the standard WordPress Theme Unit Test Data for content. The Theme Unit Test is a series of posts and pages that match up with a checklist on the WordPress codex. You can use the data and checklist together to test your theme. It is recommended that you test your theme with the Theme Unit Test before submitting your theme to the WordPress.org theme directory.
 
 <h2>WordPress Theme Development Resources</h2>
 
@@ -4148,6 +4203,281 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
     <wp:meta_value><![CDATA[]]></wp:meta_value>
   </wp:postmeta>
 </item>
+<item>
+		<title>twitter.com</title>
+		<link>http://localhost:8080/?p=1711</link>
+		<pubDate>Sat, 20 Oct 2018 11:20:27 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8080/?p=1711</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1711</wp:post_id>
+		<wp:post_date><![CDATA[2018-10-20 11:20:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-10-20 11:20:27]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[twitter-com]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="social-menu"><![CDATA[Social menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1711]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://twitter.com/wordpress]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>facebook.com</title>
+		<link>http://localhost:8080/?p=1712</link>
+		<pubDate>Sat, 20 Oct 2018 11:20:27 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8080/?p=1712</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1712</wp:post_id>
+		<wp:post_date><![CDATA[2018-10-20 11:20:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-10-20 11:20:27]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[facebook-com]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="social-menu"><![CDATA[Social menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1712]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.facebook.com/WordPress/]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>github.com</title>
+		<link>http://localhost:8080/?p=1713</link>
+		<pubDate>Sat, 20 Oct 2018 11:20:27 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8080/?p=1713</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1713</wp:post_id>
+		<wp:post_date><![CDATA[2018-10-20 11:20:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-10-20 11:20:27]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[github-com]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="social-menu"><![CDATA[Social menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1713]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://github.com/WordPress/]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>instagram.com</title>
+		<link>http://localhost:8080/?p=1714</link>
+		<pubDate>Sat, 20 Oct 2018 11:20:28 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8080/?p=1714</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1714</wp:post_id>
+		<wp:post_date><![CDATA[2018-10-20 11:20:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-10-20 11:20:28]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[instagram-com]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="social-menu"><![CDATA[Social menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1714]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.instagram.com/photomatt/]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>linkedin.com</title>
+		<link>http://localhost:8080/?p=1715</link>
+		<pubDate>Sat, 20 Oct 2018 11:24:31 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8080/?p=1715</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1715</wp:post_id>
+		<wp:post_date><![CDATA[2018-10-20 11:24:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-10-20 11:24:31]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[linkedin-com]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="social-menu"><![CDATA[Social menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1715]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.linkedin.com/company/wordpress/]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
 <item>
   <title>triforce-wallpaper</title>
   <link>https://wpthemetestdata.wordpress.com/2010/08/07/post-format-image-caption/triforce-wallpaper/</link>
