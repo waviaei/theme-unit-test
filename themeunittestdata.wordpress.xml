@@ -35,27 +35,6 @@
   <wp:author_first_name><![CDATA[]]></wp:author_first_name>
   <wp:author_last_name><![CDATA[]]></wp:author_last_name>
 </wp:author>
-<wp:author>
-  <wp:author_login>chipbennett</wp:author_login>
-  <wp:author_email>chip@chipbennett.net</wp:author_email>
-  <wp:author_display_name><![CDATA[Chip Bennett]]></wp:author_display_name>
-  <wp:author_first_name><![CDATA[]]></wp:author_first_name>
-  <wp:author_last_name><![CDATA[]]></wp:author_last_name>
-</wp:author>
-<wp:author>
-  <wp:author_login>lance</wp:author_login>
-  <wp:author_email>lance@automattic.com</wp:author_email>
-  <wp:author_display_name><![CDATA[Lance Willett]]></wp:author_display_name>
-  <wp:author_first_name><![CDATA[]]></wp:author_first_name>
-  <wp:author_last_name><![CDATA[]]></wp:author_last_name>
-</wp:author>
-<wp:author>
-  <wp:author_login>emiluzelac</wp:author_login>
-  <wp:author_email>emil@uzelac.me</wp:author_email>
-  <wp:author_display_name><![CDATA[Emil Uzelac]]></wp:author_display_name>
-  <wp:author_first_name><![CDATA[]]></wp:author_first_name>
-  <wp:author_last_name><![CDATA[]]></wp:author_last_name>
-</wp:author>
 <wp:category>
   <wp:term_id>2835016</wp:term_id>
   <wp:category_nicename>aciform</wp:category_nicename>
@@ -2782,7 +2761,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Pages</title>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/pages/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:45 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2013/04/09/pages</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -2841,7 +2820,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Categories</title>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/categories/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:45 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2013/04/09/categories</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -2900,7 +2879,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/1112/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:46 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2013/04/09/1112</guid>
   <description/>
   <content:encoded><![CDATA[Posts in this category test markup tags and styles.]]></content:encoded>
@@ -2959,7 +2938,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/1115/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:46 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2013/04/09/1115</guid>
   <description/>
   <content:encoded><![CDATA[Posts in this category test post formats.]]></content:encoded>
@@ -3018,7 +2997,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/1118/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:46 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2013/04/09/1118</guid>
   <description/>
   <content:encoded><![CDATA[Posts in this category test unpublished posts.]]></content:encoded>
@@ -3077,7 +3056,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Depth</title>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/depth/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:46 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2013/04/09/depth</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -3136,7 +3115,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Level 01</title>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/level-01/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:47 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2013/04/09/level-01</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -3195,7 +3174,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Level 02</title>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/level-02/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:47 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2013/04/09/level-02</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -3254,7 +3233,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Level 03</title>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/level-03/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:47 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2013/04/09/level-03</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -3313,7 +3292,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Level 04</title>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/level-04/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:47 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2013/04/09/level-04</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -3372,7 +3351,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Level 05</title>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/level-05/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:47 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2013/04/09/level-05</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -3431,7 +3410,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Level 06</title>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/level-06/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:49 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2013/04/09/level-06</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -3490,7 +3469,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Level 07</title>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/level-07/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:49 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2013/04/09/level-07</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -3549,7 +3528,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Level 08</title>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/level-08/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:49 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2013/04/09/level-08</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -3608,7 +3587,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Level 09</title>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/level-09/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:49 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2013/04/09/level-09</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -3667,7 +3646,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Level 10</title>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/level-10/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:49 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2013/04/09/level-10</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -3726,7 +3705,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Advanced</title>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/advanced/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:49 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2013/04/09/advanced</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -3785,7 +3764,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Menu Description</title>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/menu-description/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:50 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2013/04/09/menu-description</guid>
   <description/>
   <content:encoded><![CDATA[Custom Menu Description]]></content:encoded>
@@ -3844,7 +3823,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Menu Title Attribute</title>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/menu-title-attribute/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:50 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2013/04/09/menu-title-attribute</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -3903,7 +3882,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Menu CSS Class</title>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/menu-css-class/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:51 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2013/04/09/menu-css-class</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -3962,7 +3941,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>New Window / Tab</title>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/new-window-tab/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:51 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2013/04/09/new-window-tab</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -4021,7 +4000,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/1263/</link>
   <pubDate>Tue, 09 Apr 2013 13:38:00 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2013/04/09/1263</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4080,7 +4059,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/1264/</link>
   <pubDate>Tue, 09 Apr 2013 13:38:01 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2013/04/09/1264</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4139,7 +4118,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/1287/</link>
   <pubDate>Tue, 09 Apr 2013 13:53:04 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2013/04/09/1287</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4198,7 +4177,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/1288/</link>
   <pubDate>Tue, 09 Apr 2013 13:53:04 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2013/04/09/1288</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4257,7 +4236,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>triforce-wallpaper</title>
   <link>https://wpthemetestdata.wordpress.com/2010/08/07/post-format-image-caption/triforce-wallpaper/</link>
   <pubDate>Tue, 09 Apr 2013 20:17:31 +0000</pubDate>
-  <dc:creator>chipbennett</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2010/08/triforce-wallpaper.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -4280,7 +4259,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Home</title>
   <link>https://wpthemetestdata.wordpress.com/2013/05/07/home/</link>
   <pubDate>Tue, 07 May 2013 19:54:30 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1635</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -4339,7 +4318,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/05/07/1636/</link>
   <pubDate>Tue, 07 May 2013 19:54:30 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1636</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4398,7 +4377,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/05/07/1637/</link>
   <pubDate>Tue, 07 May 2013 19:54:31 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1637</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4457,7 +4436,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/05/07/1638/</link>
   <pubDate>Tue, 07 May 2013 19:54:31 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1638</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4516,7 +4495,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/05/07/1639/</link>
   <pubDate>Tue, 07 May 2013 19:54:31 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1639</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4575,7 +4554,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/05/07/1640/</link>
   <pubDate>Tue, 07 May 2013 19:54:31 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1640</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4634,7 +4613,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/05/07/1641/</link>
   <pubDate>Tue, 07 May 2013 19:54:31 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1641</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4693,7 +4672,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>Home</title>
   <link>https://wpthemetestdata.wordpress.com/2013/05/07/home-2/</link>
   <pubDate>Tue, 07 May 2013 19:55:38 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1642</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -4752,7 +4731,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/05/07/1643/</link>
   <pubDate>Tue, 07 May 2013 19:55:38 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1643</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4811,7 +4790,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/05/07/1644/</link>
   <pubDate>Tue, 07 May 2013 19:55:38 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1644</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4870,7 +4849,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/05/07/1645/</link>
   <pubDate>Tue, 07 May 2013 19:55:39 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1645</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4929,7 +4908,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/05/07/1646/</link>
   <pubDate>Tue, 07 May 2013 19:55:39 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1646</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -4988,7 +4967,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/05/07/1647/</link>
   <pubDate>Tue, 07 May 2013 19:55:39 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1647</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -5047,7 +5026,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/05/07/1648/</link>
   <pubDate>Tue, 07 May 2013 19:55:39 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1648</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -5106,7 +5085,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/05/07/1649/</link>
   <pubDate>Tue, 07 May 2013 19:55:39 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1649</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -5165,7 +5144,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/05/07/1650/</link>
   <pubDate>Tue, 07 May 2013 19:55:40 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1650</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -5224,7 +5203,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/05/07/1651/</link>
   <pubDate>Tue, 07 May 2013 19:55:40 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1651</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -5283,7 +5262,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/05/07/1652/</link>
   <pubDate>Tue, 07 May 2013 19:55:40 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1652</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -5342,7 +5321,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/05/07/1653/</link>
   <pubDate>Tue, 07 May 2013 19:55:40 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1653</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -5401,7 +5380,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/05/07/1654/</link>
   <pubDate>Tue, 07 May 2013 19:55:40 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1654</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -5460,7 +5439,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/05/07/1655/</link>
   <pubDate>Tue, 07 May 2013 19:55:41 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1655</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -5519,7 +5498,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/05/07/1656/</link>
   <pubDate>Tue, 07 May 2013 19:55:41 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1656</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -5578,7 +5557,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/05/07/1657/</link>
   <pubDate>Tue, 07 May 2013 19:55:41 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1657</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -5637,7 +5616,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/05/07/1658/</link>
   <pubDate>Tue, 07 May 2013 19:55:41 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1658</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -5696,7 +5675,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/05/07/1659/</link>
   <pubDate>Tue, 07 May 2013 19:55:41 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1659</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -5755,7 +5734,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title/>
   <link>https://wpthemetestdata.wordpress.com/2013/05/07/1660/</link>
   <pubDate>Tue, 07 May 2013 19:55:41 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1660</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
@@ -5814,7 +5793,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>dsc20040724_152504_532</title>
   <link>https://wpthemetestdata.wordpress.com/?attachment_id=1686</link>
   <pubDate>Wed, 18 Sep 2013 21:37:05 +0000</pubDate>
-  <dc:creator>emiluzelac</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2013/09/dsc20040724_152504_532.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -5837,7 +5816,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>dsc20050604_133440_34211</title>
   <link>https://wpthemetestdata.wordpress.com/?attachment_id=1687</link>
   <pubDate>Wed, 18 Sep 2013 21:37:07 +0000</pubDate>
-  <dc:creator>emiluzelac</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2013/09/dsc20050604_133440_34211.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -5860,7 +5839,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>2014-slider-mobile-behavior</title>
   <link>https://wpthemetestdata.wordpress.com/?attachment_id=1690</link>
   <pubDate>Wed, 04 Dec 2013 18:08:29 +0000</pubDate>
-  <dc:creator>lance</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2013/12/2014-slider-mobile-behavior.mov</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -5883,7 +5862,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>dsc20050315_145007_132</title>
   <link>https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050315_145007_132-2/</link>
   <pubDate>Sun, 05 Jan 2014 18:45:21 +0000</pubDate>
-  <dc:creator>emiluzelac</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2014/01/dsc20050315_145007_132.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
@@ -5906,7 +5885,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <title>spectacles</title>
   <link>https://wpthemetestdata.wordpress.com/about/clearing-floats/spectacles-2/</link>
   <pubDate>Sun, 05 Jan 2014 18:45:36 +0000</pubDate>
-  <dc:creator>emiluzelac</dc:creator>
+  <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2014/01/spectacles.gif</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
