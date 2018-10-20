@@ -1423,10 +1423,6 @@ Also, verify that the Page does not display a "comments are closed" type message
     <wp:meta_value><![CDATA[canola]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-    <wp:meta_value><![CDATA[canola]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
     <wp:meta_key>_attachment_original_parent_id</wp:meta_key>
     <wp:meta_value><![CDATA[555]]></wp:meta_value>
   </wp:postmeta>
@@ -1462,10 +1458,6 @@ Also, verify that the Page does not display a "comments are closed" type message
     <wp:meta_value><![CDATA[dsc20050727_091048_222]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-    <wp:meta_value><![CDATA[dsc20050727_091048_222]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
     <wp:meta_key>_attachment_original_parent_id</wp:meta_key>
     <wp:meta_value><![CDATA[555]]></wp:meta_value>
   </wp:postmeta>
@@ -1496,10 +1488,6 @@ Also, verify that the Page does not display a "comments are closed" type message
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050813_115856_52.jpg</wp:attachment_url>
-  <wp:postmeta>
-    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-    <wp:meta_value><![CDATA[dsc20050813_115856_52]]></wp:meta_value>
-  </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[dsc20050813_115856_52]]></wp:meta_value>
@@ -1630,10 +1618,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
     <wp:meta_value><![CDATA[Bell on Wharf]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-    <wp:meta_value><![CDATA[Bell on Wharf]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
     <wp:meta_key>_attachment_original_parent_id</wp:meta_key>
     <wp:meta_value><![CDATA[555]]></wp:meta_value>
   </wp:postmeta>
@@ -1664,10 +1648,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/100_5540.jpg</wp:attachment_url>
-  <wp:postmeta>
-    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-    <wp:meta_value><![CDATA[Golden Gate Bridge]]></wp:meta_value>
-  </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Golden Gate Bridge]]></wp:meta_value>
@@ -1708,10 +1688,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
     <wp:meta_value><![CDATA[Sunburst Over River]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-    <wp:meta_value><![CDATA[Sunburst Over River]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
     <wp:meta_key>_attachment_original_parent_id</wp:meta_key>
     <wp:meta_value><![CDATA[555]]></wp:meta_value>
   </wp:postmeta>
@@ -1742,10 +1718,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dcp_2082.jpg</wp:attachment_url>
-  <wp:postmeta>
-    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-    <wp:meta_value><![CDATA[Boardwalk]]></wp:meta_value>
-  </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Boardwalk]]></wp:meta_value>
@@ -1786,10 +1758,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
     <wp:meta_value><![CDATA[Yachtsody in Blue]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-    <wp:meta_value><![CDATA[Yachtsody in Blue]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
     <wp:meta_key>_attachment_original_parent_id</wp:meta_key>
     <wp:meta_value><![CDATA[555]]></wp:meta_value>
   </wp:postmeta>
@@ -1820,10 +1788,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dsc04563.jpg</wp:attachment_url>
-  <wp:postmeta>
-    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-    <wp:meta_value><![CDATA[Rain Ripples]]></wp:meta_value>
-  </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Rain Ripples]]></wp:meta_value>
@@ -1864,10 +1828,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
     <wp:meta_value><![CDATA[Sydney Harbor Bridge]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-    <wp:meta_value><![CDATA[Sydney Harbor Bridge]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
     <wp:meta_key>_attachment_original_parent_id</wp:meta_key>
     <wp:meta_value><![CDATA[555]]></wp:meta_value>
   </wp:postmeta>
@@ -1898,10 +1858,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050102_192118_51.jpg</wp:attachment_url>
-  <wp:postmeta>
-    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-    <wp:meta_value><![CDATA[Wind Farm]]></wp:meta_value>
-  </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Wind Farm]]></wp:meta_value>
@@ -1942,10 +1898,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
     <wp:meta_value><![CDATA[Antique Farm Machinery]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-    <wp:meta_value><![CDATA[Antique Farm Machinery]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
     <wp:meta_key>_attachment_original_parent_id</wp:meta_key>
     <wp:meta_value><![CDATA[555]]></wp:meta_value>
   </wp:postmeta>
@@ -1976,10 +1928,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dsc02085.jpg</wp:attachment_url>
-  <wp:postmeta>
-    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-    <wp:meta_value><![CDATA[Orange Iris]]></wp:meta_value>
-  </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Orange Iris]]></wp:meta_value>
@@ -2020,10 +1968,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
     <wp:meta_value><![CDATA[Rusty Rail]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-    <wp:meta_value><![CDATA[Rusty Rail]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
     <wp:meta_key>_attachment_original_parent_id</wp:meta_key>
     <wp:meta_value><![CDATA[555]]></wp:meta_value>
   </wp:postmeta>
@@ -2054,10 +1998,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dscn3316.jpg</wp:attachment_url>
-  <wp:postmeta>
-    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-    <wp:meta_value><![CDATA[Sea and Rocks]]></wp:meta_value>
-  </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Sea and Rocks]]></wp:meta_value>
@@ -2098,10 +2038,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
     <wp:meta_value><![CDATA[Big Sur]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-    <wp:meta_value><![CDATA[Big Sur]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
     <wp:meta_key>_attachment_original_parent_id</wp:meta_key>
     <wp:meta_value><![CDATA[555]]></wp:meta_value>
   </wp:postmeta>
@@ -2132,10 +2068,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/windmill.jpg</wp:attachment_url>
-  <wp:postmeta>
-    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-    <wp:meta_value><![CDATA[Windmill]]></wp:meta_value>
-  </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Windmill]]></wp:meta_value>
@@ -2176,10 +2108,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
     <wp:meta_value><![CDATA[Huatulco Coastline]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-    <wp:meta_value><![CDATA[Huatulco Coastline]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
     <wp:meta_key>_attachment_original_parent_id</wp:meta_key>
     <wp:meta_value><![CDATA[555]]></wp:meta_value>
   </wp:postmeta>
@@ -2210,10 +2138,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/img_0747.jpg</wp:attachment_url>
-  <wp:postmeta>
-    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-    <wp:meta_value><![CDATA[Brazil Beach]]></wp:meta_value>
-  </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Brazil Beach]]></wp:meta_value>
@@ -2254,10 +2178,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
     <wp:meta_value><![CDATA[Huatulco Coastline]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-    <wp:meta_value><![CDATA[Huatulco Coastline]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
     <wp:meta_key>_attachment_original_parent_id</wp:meta_key>
     <wp:meta_value><![CDATA[555]]></wp:meta_value>
   </wp:postmeta>
@@ -2288,10 +2208,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/img_8399.jpg</wp:attachment_url>
-  <wp:postmeta>
-    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-    <wp:meta_value><![CDATA[Boat Barco Texture]]></wp:meta_value>
-  </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Boat Barco Texture]]></wp:meta_value>
