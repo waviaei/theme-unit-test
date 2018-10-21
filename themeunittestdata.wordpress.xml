@@ -35,6 +35,13 @@
   <wp:author_first_name><![CDATA[]]></wp:author_first_name>
   <wp:author_last_name><![CDATA[]]></wp:author_last_name>
 </wp:author>
+<wp:author>
+  <wp:author_login><![CDATA[themereviewteam]]></wp:author_login>
+  <wp:author_email><![CDATA[themereviewteam@gmail.com]]></wp:author_email>
+  <wp:author_display_name><![CDATA[Theme Reviewer]]></wp:author_display_name>
+  <wp:author_first_name><![CDATA[Theme]]></wp:author_first_name>
+  <wp:author_last_name><![CDATA[Review]]></wp:author_last_name>
+</wp:author>
 <wp:category>
   <wp:term_id>2835016</wp:term_id>
   <wp:category_nicename>aciform</wp:category_nicename>
@@ -1047,10 +1054,10 @@
 	</image>
 <item>
 	<title>Keyboard navigation</title>
-	<link>http://localhost:8080/?page_id=1706</link>
-	<pubDate>Sat, 20 Oct 2018 10:57:04 +0000</pubDate>
-	<dc:creator><![CDATA[themedemos]]></dc:creator>
-	<guid isPermaLink="false">http://localhost:8080/?page_id=1706</guid>
+	<link>https://wpthemetestdata.wordpress.com/2018/10/20/keyboard-navigation/</link>
+	<pubDate>Sun, 21 Oct 2018 03:03:48 +0000</pubDate>
+	<dc:creator><![CDATA[themereviewteam]]></dc:creator>
+	<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1724</guid>
 	<description></description>
 	<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>There are many different ways to use the web besides a mouse and a pair of eyes.  Users navigate for example with a keyboard only or with their voice. </p>
@@ -1080,9 +1087,9 @@
 <ul><li><a href="https://make.wordpress.org/accessibility/handbook/">The Make WordPress Accessibility Handbook </a><ul><li><a href="https://make.wordpress.org/accessibility/handbook/test-for-web-accessibility/">Test for web accessibility</a></li></ul></li><li><a href="https://webaim.org/techniques/keyboard/">Keyboard Accessibility</a> by WebAIM</li><li><a href="http://rianrietveld.com/2016/05/10/keyboard/">Workshop keyboard accessibility</a></li><li><a href="https://make.wordpress.org/themes/handbook/review/accessibility/required/">Theme review accessibility-ready requirements: Keyboard Navigation</a></li></ul>
 <!-- /wp:list -->]]></content:encoded>
 	 <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-	 <wp:post_id>1706</wp:post_id>
-	 <wp:post_date><![CDATA[2018-10-20 10:57:04]]></wp:post_date>
-	 <wp:post_date_gmt><![CDATA[2018-10-20 10:57:04]]></wp:post_date_gmt>
+	 <wp:post_id>1724</wp:post_id>
+	 <wp:post_date><![CDATA[2018-10-20 20:03:48]]></wp:post_date>
+	 <wp:post_date_gmt><![CDATA[2018-10-21 03:03:48]]></wp:post_date_gmt>
 	 <wp:comment_status><![CDATA[closed]]></wp:comment_status>
 	 <wp:ping_status><![CDATA[closed]]></wp:ping_status>
 	 <wp:post_name><![CDATA[keyboard-navigation]]></wp:post_name>
@@ -4205,16 +4212,16 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
 </item>
 <item>
 		<title>twitter.com</title>
-		<link>http://localhost:8080/?p=1711</link>
-		<pubDate>Sat, 20 Oct 2018 11:20:27 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/?p=1711</guid>
+		<link>https://wpthemetestdata.wordpress.com/2018/10/20/twitter-com/</link>
+		<pubDate>Sun, 21 Oct 2018 02:57:33 +0000</pubDate>
+		<dc:creator><![CDATA[themereviewteam]]></dc:creator>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2018/10/20/twitter-com/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1711</wp:post_id>
-		<wp:post_date><![CDATA[2018-10-20 11:20:27]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-10-20 11:20:27]]></wp:post_date_gmt>
+		<wp:post_id>1719</wp:post_id>
+		<wp:post_date><![CDATA[2018-10-20 19:57:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-10-21 02:57:33]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[twitter-com]]></wp:post_name>
@@ -4235,7 +4242,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1711]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1719]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
@@ -4260,16 +4267,16 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
 	</item>
 	<item>
 		<title>facebook.com</title>
-		<link>http://localhost:8080/?p=1712</link>
-		<pubDate>Sat, 20 Oct 2018 11:20:27 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/?p=1712</guid>
+		<link>https://wpthemetestdata.wordpress.com/2018/10/20/facebook-com/</link>
+		<pubDate>Sun, 21 Oct 2018 02:57:35 +0000</pubDate>
+		<dc:creator><![CDATA[themereviewteam]]></dc:creator>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2018/10/20/facebook-com/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1712</wp:post_id>
-		<wp:post_date><![CDATA[2018-10-20 11:20:27]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-10-20 11:20:27]]></wp:post_date_gmt>
+		<wp:post_id>1720</wp:post_id>
+		<wp:post_date><![CDATA[2018-10-20 19:57:357]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-10-21 02:57:35]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[facebook-com]]></wp:post_name>
@@ -4290,7 +4297,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1712]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1720]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
@@ -4315,22 +4322,22 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
 	</item>
 	<item>
 		<title>github.com</title>
-		<link>http://localhost:8080/?p=1713</link>
-		<pubDate>Sat, 20 Oct 2018 11:20:27 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/?p=1713</guid>
+		<link>https://wpthemetestdata.wordpress.com/2018/10/20/github-com/</link>
+		<pubDate>Sun, 21 Oct 2018 02:57:37 +0000</pubDate>
+		<dc:creator><![CDATA[themereviewteam]]></dc:creator>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2018/10/20/github-com</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1713</wp:post_id>
-		<wp:post_date><![CDATA[2018-10-20 11:20:27]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-10-20 11:20:27]]></wp:post_date_gmt>
+		<wp:post_id>1721</wp:post_id>
+		<wp:post_date><![CDATA[2018-10-20 19:57:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-10-21 02:57:37]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[github-com]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
+		<wp:menu_order>3</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4345,7 +4352,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1713]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1721]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
@@ -4370,16 +4377,16 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
 	</item>
 	<item>
 		<title>instagram.com</title>
-		<link>http://localhost:8080/?p=1714</link>
-		<pubDate>Sat, 20 Oct 2018 11:20:28 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/?p=1714</guid>
+		<link>https://wpthemetestdata.wordpress.com/2018/10/20/instagram-com</link>
+		<pubDate>Sun, 21 Oct 2018 02:57:41 +000</pubDate>
+		<dc:creator>themereviewteam></dc:creator>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2018/10/20/instagram-com</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1714</wp:post_id>
-		<wp:post_date><![CDATA[2018-10-20 11:20:28]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-10-20 11:20:28]]></wp:post_date_gmt>
+		<wp:post_id>1723</wp:post_id>
+		<wp:post_date><![CDATA[2018-10-20 19:57:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-10-21 02:57:41]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[instagram-com]]></wp:post_name>
@@ -4400,7 +4407,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1714]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1723]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
@@ -4425,22 +4432,22 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
 	</item>
 	<item>
 		<title>linkedin.com</title>
-		<link>http://localhost:8080/?p=1715</link>
-		<pubDate>Sat, 20 Oct 2018 11:24:31 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/?p=1715</guid>
+		<link>https://wpthemetestdata.wordpress.com/2018/10/20/linkedin-com/</link>
+		<pubDate>Sun, 21 Oct 2018 02:57:39 +0000</pubDate>
+		<dc:creator><![CDATA[themereviewteam]]></dc:creator>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2018/10/20/linkedin-com/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1715</wp:post_id>
-		<wp:post_date><![CDATA[2018-10-20 11:24:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-10-20 11:24:31]]></wp:post_date_gmt>
+		<wp:post_id>1722</wp:post_id>
+		<wp:post_date><![CDATA[2018-10-20 19:57:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-10-21 02:57:39]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[linkedin-com]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
+		<wp:menu_order>4</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4455,7 +4462,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1715]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1722]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
