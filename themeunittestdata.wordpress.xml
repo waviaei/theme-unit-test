@@ -35,6 +35,13 @@
   <wp:author_first_name><![CDATA[]]></wp:author_first_name>
   <wp:author_last_name><![CDATA[]]></wp:author_last_name>
 </wp:author>
+<wp:author>
+  <wp:author_login><![CDATA[themereviewteam]]></wp:author_login>
+  <wp:author_email><![CDATA[themereviewteam@gmail.com]]></wp:author_email>
+  <wp:author_display_name><![CDATA[Theme Reviewer]]></wp:author_display_name>
+  <wp:author_first_name><![CDATA[Theme]]></wp:author_first_name>
+  <wp:author_last_name><![CDATA[Review]]></wp:author_last_name>
+</wp:author>
 <wp:category>
   <wp:term_id>2835016</wp:term_id>
   <wp:category_nicename>aciform</wp:category_nicename>
@@ -1177,7 +1184,7 @@ Also, verify that this Page does not display taxonomy information (e.g. categori
     <wp:comment_author><![CDATA[Anon]]></wp:comment_author>
     <wp:comment_author_email>anon@example.com</wp:comment_author_email>
     <wp:comment_author_url/>
-    <wp:comment_author_IP>59.167.157.3</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2007-09-04 10:49:28</wp:comment_date>
     <wp:comment_date_gmt>2007-09-04 00:49:28</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[Anonymous comment.]]></wp:comment_content>
@@ -1193,9 +1200,9 @@ Also, verify that this Page does not display taxonomy information (e.g. categori
   <wp:comment>
     <wp:comment_id>168</wp:comment_id>
     <wp:comment_author><![CDATA[tellyworthtest2]]></wp:comment_author>
-    <wp:comment_author_email>tellyworth+test2@gmail.com</wp:comment_author_email>
+    <wp:comment_author_email>tellyworth+test2@example.com</wp:comment_author_email>
     <wp:comment_author_url/>
-    <wp:comment_author_IP>59.167.157.3</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2007-09-04 10:49:03</wp:comment_date>
     <wp:comment_date_gmt>2007-09-04 00:49:03</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[Contributor comment.]]></wp:comment_content>
@@ -1210,10 +1217,10 @@ Also, verify that this Page does not display taxonomy information (e.g. categori
   </wp:comment>
   <wp:comment>
     <wp:comment_id>169</wp:comment_id>
-    <wp:comment_author><![CDATA[John Doe]]></wp:comment_author>
-    <wp:comment_author_email>example@example.org</wp:comment_author_email>
-    <wp:comment_author_url>http://example.org</wp:comment_author_url>
-    <wp:comment_author_IP>59.167.157.3</wp:comment_author_IP>
+    <wp:comment_author><![CDATA[themedemos]]></wp:comment_author>
+    <wp:comment_author_email>themeshaperwp+demos@gmail.com</wp:comment_author_email>
+    <wp:comment_author_url>https://wpthemetestdata.wordpress.com/</wp:comment_author_url>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2007-09-04 10:48:51</wp:comment_date>
     <wp:comment_date_gmt>2007-09-04 17:48:51</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[Author comment.]]></wp:comment_content>
@@ -1228,10 +1235,10 @@ Also, verify that this Page does not display taxonomy information (e.g. categori
   </wp:comment>
   <wp:comment>
     <wp:comment_id>1017</wp:comment_id>
-    <wp:comment_author><![CDATA[admin]]></wp:comment_author>
-    <wp:comment_author_email>admin@admin.com</wp:comment_author_email>
+    <wp:comment_author><![CDATA[themereviewteam]]></wp:comment_author>
+    <wp:comment_author_email>themereviewteam@gmail.com</wp:comment_author_email>
     <wp:comment_author_url/>
-    <wp:comment_author_IP>42.116.222.22</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2014-12-10 01:56:24</wp:comment_date>
     <wp:comment_date_gmt>2014-12-10 08:56:24</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[fdafdsa]]></wp:comment_content>
@@ -1559,9 +1566,9 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:comment>
     <wp:comment_id>1016</wp:comment_id>
     <wp:comment_author><![CDATA[ken]]></wp:comment_author>
-    <wp:comment_author_email>fitzgoo@sbcglobal.net</wp:comment_author_email>
+    <wp:comment_author_email>example@example.com</wp:comment_author_email>
     <wp:comment_author_url/>
-    <wp:comment_author_IP>99.52.164.177</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2014-11-29 21:03:05</wp:comment_date>
     <wp:comment_date_gmt>2014-11-30 04:03:05</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[I want to learn how to make chinese eggrolls]]></wp:comment_content>
@@ -7346,7 +7353,7 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
     <wp:comment_author><![CDATA[John Doe]]></wp:comment_author>
     <wp:comment_author_email>example@example.org</wp:comment_author_email>
     <wp:comment_author_url>http://example.org/</wp:comment_author_url>
-    <wp:comment_author_IP>59.167.157.3</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2012-09-03 10:18:04</wp:comment_date>
     <wp:comment_date_gmt>2012-09-03 17:18:04</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[<strong>Headings</strong>
@@ -7579,9 +7586,9 @@ This allows you to denote <var>variables</var>.]]></wp:comment_content>
   <wp:comment>
     <wp:comment_id>899</wp:comment_id>
     <wp:comment_author><![CDATA[Anonymous User]]></wp:comment_author>
-    <wp:comment_author_email>fake@email.com</wp:comment_author_email>
+    <wp:comment_author_email>fake@example.com</wp:comment_author_email>
     <wp:comment_author_url/>
-    <wp:comment_author_IP>67.3.69.40</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2013-03-11 23:45:54</wp:comment_date>
     <wp:comment_date_gmt>2013-03-12 04:45:54</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[This user it trying to be anonymous.
@@ -7604,7 +7611,7 @@ This allows you to denote <var>variables</var>.]]></wp:comment_content>
     <wp:comment_author><![CDATA[Jane Doe]]></wp:comment_author>
     <wp:comment_author_email>example@example.org</wp:comment_author_email>
     <wp:comment_author_url>http://example.org/</wp:comment_author_url>
-    <wp:comment_author_IP>204.54.106.1</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2013-03-12 13:17:35</wp:comment_date>
     <wp:comment_date_gmt>2013-03-12 20:17:35</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[Comments? I love comments!]]></wp:comment_content>
@@ -7622,7 +7629,7 @@ This allows you to denote <var>variables</var>.]]></wp:comment_content>
     <wp:comment_author><![CDATA[John Doe]]></wp:comment_author>
     <wp:comment_author_email>example@example.org</wp:comment_author_email>
     <wp:comment_author_url>http://example.org</wp:comment_author_url>
-    <wp:comment_author_IP>24.126.245.62</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2013-03-14 07:53:26</wp:comment_date>
     <wp:comment_date_gmt>2013-03-14 14:53:26</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[These tests are amazing!]]></wp:comment_content>
@@ -7637,10 +7644,10 @@ This allows you to denote <var>variables</var>.]]></wp:comment_content>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>903</wp:comment_id>
-    <wp:comment_author><![CDATA[John Doe]]></wp:comment_author>
-    <wp:comment_author_email>example@example.org</wp:comment_author_email>
-    <wp:comment_author_url>http://example.org/</wp:comment_author_url>
-    <wp:comment_author_IP>24.126.245.62</wp:comment_author_IP>
+    <wp:comment_author><![CDATA[themedemos]]></wp:comment_author>
+    <wp:comment_author_email>themeshaperwp+demos@gmail.com</wp:comment_author_email>
+    <wp:comment_author_url>https://wpthemetestdata.wordpress.com/</wp:comment_author_url>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2013-03-14 07:56:46</wp:comment_date>
     <wp:comment_date_gmt>2013-03-14 14:56:46</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[Author Comment.]]></wp:comment_content>
@@ -7658,7 +7665,7 @@ This allows you to denote <var>variables</var>.]]></wp:comment_content>
     <wp:comment_author><![CDATA[John Doe]]></wp:comment_author>
     <wp:comment_author_email>example@example.org</wp:comment_author_email>
     <wp:comment_author_url>http://example.org/</wp:comment_author_url>
-    <wp:comment_author_IP>24.126.245.62</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2013-03-14 07:57:01</wp:comment_date>
     <wp:comment_date_gmt>2013-03-14 14:57:01</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[Comment Depth 01]]></wp:comment_content>
@@ -7676,7 +7683,7 @@ This allows you to denote <var>variables</var>.]]></wp:comment_content>
     <wp:comment_author><![CDATA[Jane Bloggs]]></wp:comment_author>
     <wp:comment_author_email>example@example.org</wp:comment_author_email>
     <wp:comment_author_url>http://example.org/</wp:comment_author_url>
-    <wp:comment_author_IP>24.126.245.62</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2013-03-14 08:01:21</wp:comment_date>
     <wp:comment_date_gmt>2013-03-14 15:01:21</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[Comment Depth 02]]></wp:comment_content>
@@ -7694,7 +7701,7 @@ This allows you to denote <var>variables</var>.]]></wp:comment_content>
     <wp:comment_author><![CDATA[Fred Bloggs]]></wp:comment_author>
     <wp:comment_author_email>example@example.org</wp:comment_author_email>
     <wp:comment_author_url>http://example.org/</wp:comment_author_url>
-    <wp:comment_author_IP>24.126.245.62</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2013-03-14 08:02:06</wp:comment_date>
     <wp:comment_date_gmt>2013-03-14 15:02:06</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[Comment Depth 03]]></wp:comment_content>
@@ -7712,7 +7719,7 @@ This allows you to denote <var>variables</var>.]]></wp:comment_content>
     <wp:comment_author><![CDATA[Fred Bloggs]]></wp:comment_author>
     <wp:comment_author_email>example@example.org</wp:comment_author_email>
     <wp:comment_author_url>http://example.org/</wp:comment_author_url>
-    <wp:comment_author_IP>24.126.245.62</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2013-03-14 08:03:22</wp:comment_date>
     <wp:comment_date_gmt>2013-03-14 15:03:22</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[Comment Depth 04]]></wp:comment_content>
@@ -7727,10 +7734,10 @@ This allows you to denote <var>variables</var>.]]></wp:comment_content>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>910</wp:comment_id>
-    <wp:comment_author><![CDATA[Joe Bloggs]]></wp:comment_author>
-    <wp:comment_author_email>example@example.org</wp:comment_author_email>
-    <wp:comment_author_url>http://example.org/</wp:comment_author_url>
-    <wp:comment_author_IP>24.126.245.62</wp:comment_author_IP>
+    <wp:comment_author><![CDATA[themedemos]]></wp:comment_author>
+    <wp:comment_author_email>themeshaperwp+demos@gmail.com</wp:comment_author_email>
+    <wp:comment_author_url>https://wpthemetestdata.wordpress.com/</wp:comment_author_url>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2013-03-14 08:10:29</wp:comment_date>
     <wp:comment_date_gmt>2013-03-14 15:10:29</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[Comment Depth 05
@@ -7750,7 +7757,7 @@ Also an author comment.]]></wp:comment_content>
     <wp:comment_author><![CDATA[Jane Bloggs]]></wp:comment_author>
     <wp:comment_author_email>example@example.org</wp:comment_author_email>
     <wp:comment_author_url>http://example.org/</wp:comment_author_url>
-    <wp:comment_author_IP>24.126.245.62</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2013-03-14 08:12:16</wp:comment_date>
     <wp:comment_date_gmt>2013-03-14 15:12:16</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[Comment Depth 06]]></wp:comment_content>
@@ -7768,7 +7775,7 @@ Also an author comment.]]></wp:comment_content>
     <wp:comment_author><![CDATA[Joe Bloggs]]></wp:comment_author>
     <wp:comment_author_email>example@example.org</wp:comment_author_email>
     <wp:comment_author_url>http://example.org/</wp:comment_author_url>
-    <wp:comment_author_IP>24.126.245.62</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2013-03-14 08:12:58</wp:comment_date>
     <wp:comment_date_gmt>2013-03-14 15:12:58</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[Comment Depth 07]]></wp:comment_content>
@@ -7786,7 +7793,7 @@ Also an author comment.]]></wp:comment_content>
     <wp:comment_author><![CDATA[Jane Bloggs]]></wp:comment_author>
     <wp:comment_author_email>example@example.org</wp:comment_author_email>
     <wp:comment_author_url>http://example.org/</wp:comment_author_url>
-    <wp:comment_author_IP>24.126.245.62</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2013-03-14 08:13:42</wp:comment_date>
     <wp:comment_date_gmt>2013-03-14 15:13:42</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[Comment Depth 08]]></wp:comment_content>
@@ -7804,7 +7811,7 @@ Also an author comment.]]></wp:comment_content>
     <wp:comment_author><![CDATA[Joe Bloggs]]></wp:comment_author>
     <wp:comment_author_email>example@example.org</wp:comment_author_email>
     <wp:comment_author_url>http://example.org/</wp:comment_author_url>
-    <wp:comment_author_IP>24.126.245.62</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2013-03-14 08:14:13</wp:comment_date>
     <wp:comment_date_gmt>2013-03-14 15:14:13</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[Comment Depth 09]]></wp:comment_content>
@@ -7819,10 +7826,10 @@ Also an author comment.]]></wp:comment_content>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>915</wp:comment_id>
-    <wp:comment_author><![CDATA[John Doe]]></wp:comment_author>
-    <wp:comment_author_email>example@example.org</wp:comment_author_email>
-    <wp:comment_author_url>http://example.org/</wp:comment_author_url>
-    <wp:comment_author_IP>24.126.245.62</wp:comment_author_IP>
+    <wp:comment_author><![CDATA[themedemos]]></wp:comment_author>
+    <wp:comment_author_email>themeshaperwp+demos@gmail.com</wp:comment_author_email>
+    <wp:comment_author_url>https://wpthemetestdata.wordpress.com/</wp:comment_author_url>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2013-03-14 08:14:47</wp:comment_date>
     <wp:comment_date_gmt>2013-03-14 15:14:47</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[Comment Depth 10
@@ -7842,12 +7849,12 @@ Also an author comment.]]></wp:comment_content>
     <wp:comment_author><![CDATA[Jane Doe]]></wp:comment_author>
     <wp:comment_author_email>example@example.org</wp:comment_author_email>
     <wp:comment_author_url>http://example.org/</wp:comment_author_url>
-    <wp:comment_author_IP>24.126.245.62</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2013-03-14 09:56:43</wp:comment_date>
     <wp:comment_date_gmt>2013-03-14 16:56:43</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[Image comment.
-
-]]></wp:comment_content>
+    <img src="https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050102_192118_51.jpg?w=171&h=128" alt="Albany wind-farm against the sunset, Western Australia" />
+    ]]></wp:comment_content>
     <wp:comment_approved>1</wp:comment_approved>
     <wp:comment_type/>
     <wp:comment_parent>0</wp:comment_parent>
@@ -7862,7 +7869,7 @@ Also an author comment.]]></wp:comment_content>
     <wp:comment_author><![CDATA[John Doe]]></wp:comment_author>
     <wp:comment_author_email>example@example.org</wp:comment_author_email>
     <wp:comment_author_url>http://example.org/</wp:comment_author_url>
-    <wp:comment_author_IP>24.126.245.62</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2013-03-14 11:23:24</wp:comment_date>
     <wp:comment_date_gmt>2013-03-14 18:23:24</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[We are totally going to blog about these tests!]]></wp:comment_content>
@@ -7880,7 +7887,7 @@ Also an author comment.]]></wp:comment_content>
     <wp:comment_author><![CDATA[John Doe]]></wp:comment_author>
     <wp:comment_author_email>example@example.org</wp:comment_author_email>
     <wp:comment_author_url>http://example.org/</wp:comment_author_url>
-    <wp:comment_author_IP>24.126.245.62</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2013-03-14 11:27:54</wp:comment_date>
     <wp:comment_date_gmt>2013-03-14 18:27:54</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[We use these tests all the time! Killer stuff!]]></wp:comment_content>
@@ -7898,7 +7905,7 @@ Also an author comment.]]></wp:comment_content>
     <wp:comment_author><![CDATA[Jane Doe]]></wp:comment_author>
     <wp:comment_author_email>example@example.org</wp:comment_author_email>
     <wp:comment_author_url>http://example.org/</wp:comment_author_url>
-    <wp:comment_author_IP>24.126.245.62</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2013-03-14 11:30:33</wp:comment_date>
     <wp:comment_date_gmt>2013-03-14 18:30:33</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[Thanks for all the comments, everyone!]]></wp:comment_content>
@@ -7914,12 +7921,12 @@ Also an author comment.]]></wp:comment_content>
   <wp:comment>
     <wp:comment_id>1015</wp:comment_id>
     <wp:comment_author><![CDATA[auser]]></wp:comment_author>
-    <wp:comment_author_email>auser@kopasoft.com</wp:comment_author_email>
+    <wp:comment_author_email>auser@example.com</wp:comment_author_email>
     <wp:comment_author_url/>
-    <wp:comment_author_IP>14.162.185.126</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2014-09-29 02:52:15</wp:comment_date>
     <wp:comment_date_gmt>2014-09-29 09:52:15</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[this is test comment from kopatheme]]></wp:comment_content>
+    <wp:comment_content><![CDATA[this is test comment]]></wp:comment_content>
     <wp:comment_approved>0</wp:comment_approved>
     <wp:comment_type/>
     <wp:comment_parent>0</wp:comment_parent>
@@ -8005,7 +8012,7 @@ There are a few ways to list them.
     <wp:comment_author><![CDATA[Ping 1 &laquo; What&#8217;s a tellyworth?]]></wp:comment_author>
     <wp:comment_author_email/>
     <wp:comment_author_url>http://tellyworth.wordpress.com/2007/11/21/ping-1/</wp:comment_author_url>
-    <wp:comment_author_IP>72.232.101.12</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2007-11-21 11:31:12</wp:comment_date>
     <wp:comment_date_gmt>2007-11-21 01:31:12</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[[...] Trackback test. [...]]]></wp:comment_content>
@@ -8023,7 +8030,7 @@ There are a few ways to list them.
     <wp:comment_author><![CDATA[Ping 2 with a much longer title than the previous ping, which was called Ping 1 &laquo; What&#8217;s a tellyworth?]]></wp:comment_author>
     <wp:comment_author_email/>
     <wp:comment_author_url>http://tellyworth.wordpress.com/2007/11/21/ping-2-with-a-much-longer-title-than-the-previous-ping-which-was-called-ping-1/</wp:comment_author_url>
-    <wp:comment_author_IP>72.232.101.12</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2007-11-21 11:35:47</wp:comment_date>
     <wp:comment_date_gmt>2007-11-21 01:35:47</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[[...] Another trackback test.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec hendrerit gravida nisi. Praesent libero odio, tincidunt nec, fringilla et, mollis ut, ipsum. Proin a lacus quis nisi pulvinar bibendum. Donec massa justo, dapibus at, imperdiet vestibulum, dapibus in, leo. Donec pretium tellus in dui. Phasellus tristique aliquet justo. Donec sodales. Nulla urna mi, molestie ac, malesuada sit amet, sagittis id, lacus. Mauris auctor leo ac justo. Proin convallis. Nulla eleifend dictum mi. Donec at lectus. Integer augue sapien, ornare vitae, rhoncus quis, rhoncus sed, sapien. Nunc mattis diam sodales diam.Etiam porttitor, ante sed varius semper, ante arcu rutrum tortor, at luctus nunc urna id nibh. Fusce sodales. Integer sed ligula. Donec posuere, nibh aliquet auctor congue, augue est porttitor odio, imperdiet facilisis tortor urna vel mauris. Pellentesque pretium, lorem non pellentesque varius, elit diam ultrices mi, sed posuere sapien lectus sed mi. Donec vestibulum urna. Donec gravida elit et enim. Ut dignissim neque ut erat. Morbi tincidunt nunc vitae lorem. Morbi rhoncus mi. Praesent facilisis tincidunt enim. Ut pulvinar. Suspendisse potenti. Vivamus turpis odio, porta at, malesuada in, iaculis eget, odio. Aenean faucibus, urna quis congue dignissim, orci tellus ornare leo, eget viverra ante ipsum sit amet magna. Suspendisse mattis nunc at justo. Nullam malesuada lobortis lorem. Morbi ultricies. Nam risus erat, sagittis ut, tristique rhoncus, luctus id, ante. Maecenas ac dui. [...]]]></wp:comment_content>
@@ -8041,7 +8048,7 @@ There are a few ways to list them.
     <wp:comment_author><![CDATA[Ping 4 &laquo; What&#8217;s a tellyworth?]]></wp:comment_author>
     <wp:comment_author_email/>
     <wp:comment_author_url>http://tellyworth.wordpress.com/2007/11/21/ping-4/</wp:comment_author_url>
-    <wp:comment_author_IP>72.232.101.12</wp:comment_author_IP>
+    <wp:comment_author_IP>2</wp:comment_author_IP>
     <wp:comment_date>2007-11-21 11:39:25</wp:comment_date>
     <wp:comment_date_gmt>2007-11-21 01:39:25</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[[...] Another short one. [...]]]></wp:comment_content>
@@ -8059,7 +8066,7 @@ There are a few ways to list them.
     <wp:comment_author><![CDATA[Ping 3 &laquo; What&#8217;s a tellyworth?]]></wp:comment_author>
     <wp:comment_author_email/>
     <wp:comment_author_url>http://tellyworth.wordpress.com/2007/11/21/ping-3/</wp:comment_author_url>
-    <wp:comment_author_IP>72.232.101.12</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2007-11-21 11:38:22</wp:comment_date>
     <wp:comment_date_gmt>2007-11-21 01:38:22</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[[...] Just a short one. [...]]]></wp:comment_content>
@@ -8077,7 +8084,7 @@ There are a few ways to list them.
     <wp:comment_author><![CDATA[John Doe]]></wp:comment_author>
     <wp:comment_author_email>example@example.org</wp:comment_author_email>
     <wp:comment_author_url>http://example.org/</wp:comment_author_url>
-    <wp:comment_author_IP>146.214.103.251</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2010-06-11 15:27:04</wp:comment_date>
     <wp:comment_date_gmt>2010-06-11 22:27:04</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[This is a comment amongst pingbacks and trackbacks.]]></wp:comment_content>
@@ -8641,7 +8648,7 @@ It should not be displayed by the theme.]]></content:encoded>
     <wp:comment_author><![CDATA[Jane Doe]]></wp:comment_author>
     <wp:comment_author_email>example@example.org</wp:comment_author_email>
     <wp:comment_author_url>http://example.org/</wp:comment_author_url>
-    <wp:comment_author_IP>24.126.245.62</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2013-03-14 11:56:08</wp:comment_date>
     <wp:comment_date_gmt>2013-03-14 18:56:08</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[This comment should not be visible until the password is entered.]]></wp:comment_content>
@@ -8757,7 +8764,7 @@ This is typically done by placing the permalink on the post date.]]></content:en
     <wp:comment_author><![CDATA[John Doe]]></wp:comment_author>
     <wp:comment_author_email>example@example.org</wp:comment_author_email>
     <wp:comment_author_url>http://example.org/</wp:comment_author_url>
-    <wp:comment_author_IP>24.126.245.62</wp:comment_author_IP>
+    <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2013-03-14 12:35:07</wp:comment_date>
     <wp:comment_date_gmt>2013-03-14 19:35:07</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[Having no content in the post should have no adverse effects on the layout or functionality.]]></wp:comment_content>
