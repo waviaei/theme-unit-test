@@ -67,6 +67,13 @@
   <wp:cat_name><![CDATA[asmodeus]]></wp:cat_name>
 </wp:category>
 <wp:category>
+		<wp:term_id>193</wp:term_id>
+		<wp:category_nicename><![CDATA[block]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Block]]></wp:cat_name>
+<wp:category_description><![CDATA[Items in the block category have been created with the block editor.]]></wp:category_description>
+	</wp:category>
+<wp:category>
   <wp:term_id>1356</wp:term_id>
   <wp:category_nicename>blogroll</wp:category_nicename>
   <wp:category_parent/>
@@ -113,6 +120,13 @@
   <wp:category_nicename>chastening</wp:category_nicename>
   <wp:category_parent/>
   <wp:cat_name><![CDATA[chastening]]></wp:cat_name>
+</wp:category>
+<wp:category>
+		<wp:term_id>192</wp:term_id>
+		<wp:category_nicename><![CDATA[classic]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Classic]]></wp:cat_name>
+<wp:category_description><![CDATA[Items in the classic category have been created with the classic editor.]]></wp:category_description>
 </wp:category>
 <wp:category>
   <wp:term_id>96553</wp:term_id>
@@ -1099,6 +1113,7 @@
 	 <wp:post_type><![CDATA[post]]></wp:post_type>
 	 <wp:post_password><![CDATA[]]></wp:post_password>
 	 <wp:is_sticky>0</wp:is_sticky>
+   <category domain="category" nicename="block"><![CDATA[Block]]></category>
 	</item>
 	<item>
   <title>About The Tests</title>
@@ -6192,6 +6207,7 @@ Occasionally in her travels through her children's minds Mrs. Darling found thin
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_tag" nicename="readability"><![CDATA[readability]]></category>
@@ -6258,6 +6274,7 @@ shortcode, including the <code>columns</code> parameter, from 1 to 9 columns. Th
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="gallery"><![CDATA[gallery]]></category>
   <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
@@ -6297,6 +6314,7 @@ shortcode, including the <code>columns</code> parameter, from 1 to 9 columns. Th
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="aside"><![CDATA[aside]]></category>
   <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
@@ -6457,6 +6475,7 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="post_tag" nicename="chat"><![CDATA[chat]]></category>
   <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_format" nicename="post-format-chat"><![CDATA[Chat]]></category>
   <wp:postmeta>
@@ -6485,6 +6504,7 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="link"><![CDATA[link]]></category>
   <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
@@ -6516,6 +6536,7 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="image"><![CDATA[image]]></category>
   <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
@@ -6551,6 +6572,7 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_format" nicename="post-format-quote"><![CDATA[Quote]]></category>
@@ -6581,6 +6603,7 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_format" nicename="post-format-status"><![CDATA[Status]]></category>
@@ -6613,6 +6636,7 @@ Posted as per the <a href="https://codex.wordpress.org/Embeds" target="_blank">i
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="embeds-2"><![CDATA[embeds]]></category>
   <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
@@ -6671,6 +6695,7 @@ Audio shortcode:
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="audio"><![CDATA[audio]]></category>
   <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
@@ -6865,6 +6890,7 @@ audio/mpeg
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="content-2"><![CDATA[content]]></category>
   <category domain="post_tag" nicename="excerpt-2"><![CDATA[excerpt]]></category>
   <category domain="post_tag" nicename="template"><![CDATA[template]]></category>
@@ -6918,6 +6944,7 @@ And this content is after the more tag.]]></content:encoded>
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="content-2"><![CDATA[content]]></category>
   <category domain="post_tag" nicename="read-more"><![CDATA[read more]]></category>
   <category domain="post_tag" nicename="template"><![CDATA[template]]></category>
@@ -7033,6 +7060,7 @@ And this content is after the more tag.]]></content:encoded>
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="content-2"><![CDATA[content]]></category>
   <category domain="post_tag" nicename="css"><![CDATA[css]]></category>
   <category domain="post_tag" nicename="edge-case"><![CDATA[edge case]]></category>
@@ -7089,6 +7117,7 @@ This post tests a horizontal featured image.]]></content:encoded>
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="codex"><![CDATA[Codex]]></category>
   <category domain="post_tag" nicename="edge-case"><![CDATA[edge case]]></category>
   <category domain="post_tag" nicename="featured-image"><![CDATA[featured image]]></category>
@@ -7162,6 +7191,7 @@ This post tests a vertical featured image.]]></content:encoded>
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="codex"><![CDATA[Codex]]></category>
   <category domain="post_tag" nicename="edge-case"><![CDATA[edge case]]></category>
   <category domain="post_tag" nicename="featured-image"><![CDATA[featured image]]></category>
@@ -7233,6 +7263,7 @@ This is some text after the Tiled Gallery just to make sure that everything spac
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="gallery"><![CDATA[gallery]]></category>
   <category domain="post_tag" nicename="jetpack-2"><![CDATA[jetpack]]></category>
   <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
@@ -7650,6 +7681,7 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="comments-2"><![CDATA[comments]]></category>
   <category domain="post_tag" nicename="template"><![CDATA[template]]></category>
   <category domain="category" nicename="template-2"><![CDATA[Template]]></category>
@@ -8311,6 +8343,7 @@ There are a few ways to list them.
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="comments-2"><![CDATA[comments]]></category>
   <category domain="post_tag" nicename="pingbacks-2"><![CDATA[pingbacks]]></category>
   <category domain="post_tag" nicename="template"><![CDATA[template]]></category>
@@ -8451,6 +8484,7 @@ There should be no comment reply form, but <em>should</em> display pingbacks and
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="comments-2"><![CDATA[comments]]></category>
   <category domain="post_tag" nicename="template"><![CDATA[template]]></category>
   <category domain="category" nicename="template-2"><![CDATA[Template]]></category>
@@ -8500,7 +8534,8 @@ There should be no comment reply form, but <em>should</em> display pingbacks and
   <wp:menu_order>0</wp:menu_order>
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
+  <wp:is_sticky>0</wp:is_sticky>'
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="8bit"><![CDATA[8BIT]]></category>
   <category domain="post_tag" nicename="alignment-2"><![CDATA[alignment]]></category>
   <category domain="post_tag" nicename="articles"><![CDATA[Articles]]></category>
@@ -8589,6 +8624,7 @@ There should be no comment reply form, but <em>should</em> display pingbacks and
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="category" nicename="aciform"><![CDATA[aciform]]></category>
   <category domain="category" nicename="antiquarianism"><![CDATA[antiquarianism]]></category>
   <category domain="category" nicename="arrangement"><![CDATA[arrangement]]></category>
@@ -8699,6 +8735,7 @@ It should not be displayed by the theme.]]></content:encoded>
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="post_tag" nicename="content-2"><![CDATA[content]]></category>
   <category domain="category" nicename="unpublished"><![CDATA[Unpublished]]></category>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <wp:postmeta>
     <wp:meta_key>original_post_id</wp:meta_key>
     <wp:meta_value><![CDATA[418]]></wp:meta_value>
@@ -8731,6 +8768,7 @@ It should not be displayed by the theme.]]></content:encoded>
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="image"><![CDATA[image]]></category>
   <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
@@ -8779,6 +8817,7 @@ Learn more about <a title="WordPress Embeds" href="https://codex.wordpress.org/E
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
@@ -8824,6 +8863,7 @@ Learn more about <a title="WordPress Embeds" href="https://codex.wordpress.org/E
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="image"><![CDATA[image]]></category>
   <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
@@ -8901,6 +8941,7 @@ It should not be displayed by the theme.]]></content:encoded>
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="content-2"><![CDATA[content]]></category>
   <category domain="category" nicename="unpublished"><![CDATA[Unpublished]]></category>
   <wp:postmeta>
@@ -8949,6 +8990,7 @@ It should not be displayed by the theme.]]></content:encoded>
   <wp:post_type>post</wp:post_type>
   <wp:post_password>enter</wp:post_password>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="password-2"><![CDATA[password]]></category>
   <category domain="post_tag" nicename="template"><![CDATA[template]]></category>
   <category domain="category" nicename="template-2"><![CDATA[Template]]></category>
@@ -9011,6 +9053,7 @@ This is typically done by placing the permalink on the post date.]]></content:en
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="edge-case"><![CDATA[edge case]]></category>
   <category domain="category" nicename="edge-case-2"><![CDATA[Edge Case]]></category>
   <category domain="post_tag" nicename="layout"><![CDATA[layout]]></category>
@@ -9061,6 +9104,7 @@ This is typically done by placing the permalink on the post date.]]></content:en
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="content-2"><![CDATA[content]]></category>
   <category domain="post_tag" nicename="edge-case"><![CDATA[edge case]]></category>
   <category domain="category" nicename="edge-case-2"><![CDATA[Edge Case]]></category>
@@ -9137,6 +9181,7 @@ Post Page 3]]></content:encoded>
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="content-2"><![CDATA[content]]></category>
   <category domain="post_tag" nicename="pagination"><![CDATA[pagination]]></category>
   <category domain="post_tag" nicename="template"><![CDATA[template]]></category>
@@ -9192,6 +9237,7 @@ Post Page 3]]></content:encoded>
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="css"><![CDATA[css]]></category>
   <category domain="post_tag" nicename="html"><![CDATA[html]]></category>
   <category domain="category" nicename="markup"><![CDATA[Markup]]></category>
@@ -9366,6 +9412,7 @@ This is a test to see if the fonts used in this theme support basic Latin charac
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="html"><![CDATA[html]]></category>
   <category domain="category" nicename="markup"><![CDATA[Markup]]></category>
   <category domain="post_tag" nicename="markup-2"><![CDATA[markup]]></category>
@@ -9418,6 +9465,7 @@ word-wrap: break-word;</pre>
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="content-2"><![CDATA[content]]></category>
   <category domain="post_tag" nicename="css"><![CDATA[css]]></category>
   <category domain="post_tag" nicename="edge-case"><![CDATA[edge case]]></category>
@@ -9487,6 +9535,7 @@ This is a paragraph. It should not have any alignment of any kind. It should jus
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="alignment-2"><![CDATA[alignment]]></category>
   <category domain="post_tag" nicename="content-2"><![CDATA[content]]></category>
   <category domain="post_tag" nicename="css"><![CDATA[css]]></category>
@@ -9582,6 +9631,7 @@ And that's a wrap, yo! You survived the tumultuous waters of alignment. Image al
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="alignment-2"><![CDATA[alignment]]></category>
   <category domain="post_tag" nicename="captions-2"><![CDATA[captions]]></category>
   <category domain="post_tag" nicename="content-2"><![CDATA[content]]></category>
@@ -9862,6 +9912,7 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="content-2"><![CDATA[content]]></category>
   <category domain="post_tag" nicename="css"><![CDATA[css]]></category>
   <category domain="post_tag" nicename="formatting-2"><![CDATA[formatting]]></category>
@@ -9924,6 +9975,7 @@ This post tests WordPress' <a title="Twitter Embeds" href="https://en.support.wo
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="content-2"><![CDATA[content]]></category>
   <category domain="post_tag" nicename="embeds-2"><![CDATA[embeds]]></category>
   <category domain="post_tag" nicename="media"><![CDATA[media]]></category>
@@ -10007,6 +10059,7 @@ There are a few things to verify:
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>1</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="sticky-2"><![CDATA[sticky]]></category>
   <category domain="post_tag" nicename="template"><![CDATA[template]]></category>
   <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
@@ -10066,6 +10119,7 @@ Be sure to test the formatting of the auto-generated excerpt, to ensure that it 
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="content-2"><![CDATA[content]]></category>
   <category domain="post_tag" nicename="excerpt-2"><![CDATA[excerpt]]></category>
   <category domain="post_tag" nicename="template"><![CDATA[template]]></category>
