@@ -10049,8 +10049,8 @@ Be sure to test the formatting of the auto-generated excerpt, to ensure that it 
 <p style="font-size:46px">The huge text size defaults to 46px, but the size can be customized.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph {"textColor":"very-light-gray","backgroundColor":"vivid-red"} -->
-<p class="has-text-color has-background has-very-light-gray-color has-vivid-red-background-color">This paragraph is colorful, with a red background and white text.  Colored blocks should have a high enough contrast, so that the text is readable. </p>
+<!-- wp:paragraph {"textColor":"very-light-gray","customBackgroundColor":"#cf2e2e"} -->
+<p style="background-color:#cf2e2e" class="has-text-color has-background has-very-light-gray-color">This paragraph is colorful, with a red background and white text.  Colored blocks should have a high enough contrast, so that the text is readable. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"customTextColor":"#1e0566"} -->
@@ -10137,20 +10137,41 @@ data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/
 <!-- /wp:quote -->
 
 <!-- wp:audio {"id":821} -->
-<figure class="wp-block-audio"><audio controls src="https://wpthemetestdata.files.wordpress.com/2008/06/originaldixielandjazzbandwithalbernard-stlouisblues.mp3<"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="https://wpthemetestdata.files.wordpress.com/2008/06/originaldixielandjazzbandwithalbernard-stlouisblues.mp3"></audio></figure>
 <!-- /wp:audio -->
 
 <!-- wp:cover {"url":"https://wpthemetestdata.files.wordpress.com/2008/06/dsc04563.jpg","id":759} -->
 <div class="wp-block-cover has-background-dim" style="background-image:url(https://wpthemetestdata.files.wordpress.com/2008/06/dsc04563.jpg)"><p class="wp-block-cover-text">Cover block with background image</p></div>
 <!-- /wp:cover -->
 
+<!-- wp:paragraph -->
+<p>The file block has a setting that lets us show or hide a download button with editable text: </p>
+<!-- /wp:paragraph -->
+
 <!-- wp:file {"id":1690,"href":"https://wpthemetestdata.files.wordpress.com/2018/11/file_block.pdf"} -->
-<div class="wp-block-file"><a href="https://wpthemetestdata.files.wordpress.com/2018/11/file_block.pdf">File Block PDF</a><a href="https://wpthemetestdata.files.wordpress.com/2018/11/file_block.pdf" class="wp-block-file__button" download="file_block">Download</a></div>
+<div class="wp-block-file"><a href="https://wpthemetestdata.files.wordpress.com/2018/11/file_block.pdf">File Block PDF</a><a href="https://wpthemetestdata.files.wordpress.com/2018/11/file_block.pdf" class="wp-block-file__button" download>Download</a></div>
 <!-- /wp:file -->
 
+<!-- wp:file {"id":1690,"href":"https://wpthemetestdata.files.wordpress.com/2018/11/file_block.pdf","showDownloadButton":false} -->
+<div class="wp-block-file"><a href="https://wpthemetestdata.files.wordpress.com/2018/11/file_block.pdf">File Block PDF</a></div>
+<!-- /wp:file -->
+
+<!-- wp:paragraph -->
+<p>Video blocks have settings for showing and hiding the playback controls. Use autoplay and playback controls responsibly. </p>
+<!-- /wp:paragraph -->
+
 <!-- wp:video {"id":1690} -->
-<figure class="wp-block-video"><video controls src="https://wpthemetestdata.files.wordpress.com/2013/12/2014-slider-mobile-behavior.mov"></video></figure>
-<!-- /wp:video -->]]></content:encoded>
+<figure class="wp-block-video"><video controls loop src="https://wpthemetestdata.files.wordpress.com/2013/12/2014-slider-mobile-behavior.mov"></video><figcaption>This is a video block caption.</figcaption></figure>
+<!-- /wp:video -->
+
+<!-- wp:paragraph -->
+<p>The video block below is muted and has a poster image that displays before the video starts:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:video {"id":1690} -->
+<figure class="wp-block-video"><video controls muted poster="https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050727_091048_222.jpg" src="https://wpthemetestdata.files.wordpress.com/2013/12/2014-slider-mobile-behavior.mov"></video></figure>
+<!-- /wp:video -->
+]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1730</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-01 07:10:43]]></wp:post_date>
@@ -10293,16 +10314,42 @@ The custom HTML block
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>For displaying media and text next to each other.&nbsp;</p>
+<p>For displaying media and text next to each other. By default, the media is to the left.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:media-text {"align":"full","customBackgroundColor":"#ebf5fe","mediaPosition":"right","mediaId":755,"mediaType":"image","mediaWidth":54,"isStackedOnMobile":true} -->
+<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile" style="background-color:#ebf5fe;grid-template-columns:auto 54%"><figure class="wp-block-media-text__media"><img src="http://localhost:8080/wp-content/uploads/2011/07/100_5540-33.jpg" alt="Golden Gate Bridge"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>This time our block is full width, and the image is to the right. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The background color is a pale blue.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Test to make sure that the editor and the front match.&nbsp;To test the <em>Stack on mobile </em>setting, reduce the browser window width.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The control these settings, the block uses the css classes "has-media-on-the-right" and "is-stacked-on-mobile".</p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:media-text -->
 
 <!-- wp:paragraph -->
-<p>The separator:</p>
+<p>The separator has three styles: short line, wide line, and dots.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
 <hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:separator {"className":"is-style-dots"} -->
+<hr class="wp-block-separator is-style-dots"/>
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
@@ -10850,10 +10897,6 @@ The third column block has 4 columns. Make sure that all the text is visible and
 <div class="wp-block-cover has-pale-pink-background-color has-background-dim has-left-content aligncenter" style="background-image:url(https://wpthemetestdata.files.wordpress.com/2008/06/canola2.jpg)"><p class="wp-block-cover-text"><strong>A center aligned cover image block, with a left aligned text.</strong></p></div>
 <!-- /wp:cover -->
 
-<!-- wp:paragraph -->
-<p><br></p>
-<!-- /wp:paragraph -->
-
 <!-- wp:cover {"url":"https://wpthemetestdata.files.wordpress.com/2008/06/dsc04563.jpg","align":"full","id":759,"hasParallax":true,"dimRatio":20} -->
 <div class="wp-block-cover has-background-dim-20 has-background-dim has-parallax alignfull" style="background-image:url(https://wpthemetestdata.files.wordpress.com/2008/06/dsc04563.jpg)"><p class="wp-block-cover-text">This is a full width cover block with a fixed background image with a 20% opacity.</p></div>
 <!-- /wp:cover -->
@@ -10873,10 +10916,6 @@ The third column block has 4 columns. Make sure that all the text is visible and
 <!-- wp:cover {"url":"https://wpthemetestdata.files.wordpress.com/2013/12/2014-slider-mobile-behavior.mov","align":"center","id":1800,"backgroundType":"video"} -->
 <div class="wp-block-cover has-background-dim aligncenter"><video class="wp-block-cover__video-background" autoplay muted loop src="https://wpthemetestdata.files.wordpress.com/2013/12/2014-slider-mobile-behavior.mov"></video><p class="wp-block-cover-text">Compare the video and image blocks.<br>This block is centered.</p></div>
 <!-- /wp:cover -->
-
-<!-- wp:paragraph -->
-<p><br></p>
-<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p>The block below has no alignment, and the text is a link. Overlay colors must also work with video backgrounds.</p>
