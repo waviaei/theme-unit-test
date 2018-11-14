@@ -1145,10 +1145,6 @@
   <wp:post_type>page</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:postmeta>
-    <wp:meta_key>_wp_page_template</wp:meta_key>
-    <wp:meta_value><![CDATA[default]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Lorem Ipsum</title>
@@ -1217,10 +1213,6 @@ Lorem Ipsum је једноставно модел текста који се к
   <wp:post_type>page</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:postmeta>
-    <wp:meta_key>_wp_page_template</wp:meta_key>
-    <wp:meta_value><![CDATA[default]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Page with comments</title>
@@ -1245,10 +1237,6 @@ Also, verify that this Page does not display taxonomy information (e.g. categori
   <wp:post_type>page</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:postmeta>
-    <wp:meta_key>_wp_page_template</wp:meta_key>
-    <wp:meta_value><![CDATA[default]]></wp:meta_value>
-  </wp:postmeta>
   <wp:comment>
     <wp:comment_id>167</wp:comment_id>
     <wp:comment_author><![CDATA[Anon]]></wp:comment_author>
@@ -1262,10 +1250,6 @@ Also, verify that this Page does not display taxonomy information (e.g. categori
     <wp:comment_type/>
     <wp:comment_parent>0</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2007-09-04 00:49:28</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>168</wp:comment_id>
@@ -1280,10 +1264,6 @@ Also, verify that this Page does not display taxonomy information (e.g. categori
     <wp:comment_type/>
     <wp:comment_parent>0</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2007-09-04 00:49:03</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>169</wp:comment_id>
@@ -1298,11 +1278,7 @@ Also, verify that this Page does not display taxonomy information (e.g. categori
     <wp:comment_type/>
     <wp:comment_parent>0</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2007-09-04 17:48:51</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
+   </wp:comment>
   <wp:comment>
     <wp:comment_id>1017</wp:comment_id>
     <wp:comment_author><![CDATA[themereviewteam]]></wp:comment_author>
@@ -1311,31 +1287,11 @@ Also, verify that this Page does not display taxonomy information (e.g. categori
     <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2014-12-10 01:56:24</wp:comment_date>
     <wp:comment_date_gmt>2014-12-10 08:56:24</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[fdafdsa]]></wp:comment_content>
+    <wp:comment_content><![CDATA[nothing useful to say]]></wp:comment_content>
     <wp:comment_approved>0</wp:comment_approved>
     <wp:comment_type/>
     <wp:comment_parent>168</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";d:1418201784.57159709930419921875;s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>email_notification_jobid</wp:meta_key>
-      <wp:meta_value>4227891358</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>email_notification_queued</wp:meta_key>
-      <wp:meta_value>1418201784</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";d:1418206928.56824588775634765625;s:7:"message";s:43:"Akismet re-checked and cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
 </item>
 <item>
@@ -1360,10 +1316,6 @@ Also, verify that the Page does not display a "comments are closed" type message
   <wp:post_type>page</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:postmeta>
-    <wp:meta_key>_wp_page_template</wp:meta_key>
-    <wp:meta_value><![CDATA[default]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Level 3</title>
@@ -1386,10 +1338,6 @@ Also, verify that the Page does not display a "comments are closed" type message
   <wp:post_type>page</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:postmeta>
-    <wp:meta_key>_wp_page_template</wp:meta_key>
-    <wp:meta_value><![CDATA[default]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Level 2</title>
@@ -1412,10 +1360,6 @@ Also, verify that the Page does not display a "comments are closed" type message
   <wp:post_type>page</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:postmeta>
-    <wp:meta_key>_wp_page_template</wp:meta_key>
-    <wp:meta_value><![CDATA[default]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Level 1</title>
@@ -1438,10 +1382,6 @@ Also, verify that the Page does not display a "comments are closed" type message
   <wp:post_type>page</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:postmeta>
-    <wp:meta_key>_wp_page_template</wp:meta_key>
-    <wp:meta_value><![CDATA[default]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Clearing Floats</title>
@@ -1468,10 +1408,6 @@ Also, verify that the Page does not display a "comments are closed" type message
   <wp:post_type>page</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:postmeta>
-    <wp:meta_key>_wp_page_template</wp:meta_key>
-    <wp:meta_value><![CDATA[default]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>canola2</title>
@@ -1591,10 +1527,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>page</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:postmeta>
-    <wp:meta_key>_wp_page_template</wp:meta_key>
-    <wp:meta_value><![CDATA[default]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>a Blog page</title>
@@ -1617,10 +1549,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>page</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:postmeta>
-    <wp:meta_key>_wp_page_template</wp:meta_key>
-    <wp:meta_value><![CDATA[default]]></wp:meta_value>
-  </wp:postmeta>
   <wp:comment>
     <wp:comment_id>1016</wp:comment_id>
     <wp:comment_author><![CDATA[ken]]></wp:comment_author>
@@ -1634,26 +1562,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
     <wp:comment_type/>
     <wp:comment_parent>0</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>email_notification_jobid</wp:meta_key>
-      <wp:meta_value>3844480247</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>email_notification_queued</wp:meta_key>
-      <wp:meta_value>1417320185</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";d:1417320185.90882110595703125;s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";d:1417324489.9985039234161376953125;s:7:"message";s:43:"Akismet re-checked and cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
 </item>
 <item>
@@ -2337,14 +2245,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-580x300.jpg</wp:attachment_url>
   <wp:postmeta>
-    <wp:meta_key>pre_import_post_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[0]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>pre_import_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[906]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Image Alignment 580x300]]></wp:meta_value>
   </wp:postmeta>
@@ -2375,14 +2275,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-150x150.jpg</wp:attachment_url>
-  <wp:postmeta>
-    <wp:meta_key>pre_import_post_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[0]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>pre_import_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[904]]></wp:meta_value>
-  </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Image Alignment 150x150]]></wp:meta_value>
@@ -2415,14 +2307,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2013/03/featured-image-horizontal.jpg</wp:attachment_url>
   <wp:postmeta>
-    <wp:meta_key>pre_import_post_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[0]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>pre_import_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[1022]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Horizontal Featured Image]]></wp:meta_value>
   </wp:postmeta>
@@ -2453,15 +2337,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2013/03/soworthloving-wallpaper.jpg</wp:attachment_url>
-  <wp:postmeta>
-    <wp:meta_key>pre_import_post_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[0]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>pre_import_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[842]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
+   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[I Am Worth Loving Wallpaper]]></wp:meta_value>
   </wp:postmeta>
@@ -2488,14 +2364,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-300x200.jpg</wp:attachment_url>
-  <wp:postmeta>
-    <wp:meta_key>pre_import_post_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[0]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>pre_import_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[905]]></wp:meta_value>
-  </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Image Alignment 300x200]]></wp:meta_value>
@@ -2528,14 +2396,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2013/03/featured-image-vertical.jpg</wp:attachment_url>
   <wp:postmeta>
-    <wp:meta_key>pre_import_post_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[0]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>pre_import_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[1024]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Horizontal Featured Image]]></wp:meta_value>
   </wp:postmeta>
@@ -2566,14 +2426,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-1200x4002.jpg</wp:attachment_url>
-  <wp:postmeta>
-    <wp:meta_key>pre_import_post_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[0]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>pre_import_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[907]]></wp:meta_value>
-  </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Image Alignment 1200x4002]]></wp:meta_value>
@@ -2606,14 +2458,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2012/12/unicorn-wallpaper.jpg</wp:attachment_url>
   <wp:postmeta>
-    <wp:meta_key>pre_import_post_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[0]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>pre_import_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[967]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Unicorn Wallpaper]]></wp:meta_value>
   </wp:postmeta>
@@ -2644,10 +2488,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="nav_menu" nicename="testing-menu"><![CDATA[Testing Menu]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_type</wp:meta_key>
     <wp:meta_value><![CDATA[custom]]></wp:meta_value>
@@ -2704,10 +2544,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="nav_menu" nicename="testing-menu"><![CDATA[Testing Menu]]></category>
   <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
     <wp:meta_key>_menu_item_type</wp:meta_key>
     <wp:meta_value><![CDATA[custom]]></wp:meta_value>
   </wp:postmeta>
@@ -2762,10 +2598,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="nav_menu" nicename="testing-menu"><![CDATA[Testing Menu]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_type</wp:meta_key>
     <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
@@ -2822,10 +2654,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="nav_menu" nicename="testing-menu"><![CDATA[Testing Menu]]></category>
   <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
     <wp:meta_key>_menu_item_type</wp:meta_key>
     <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
   </wp:postmeta>
@@ -2880,10 +2708,6 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="nav_menu" nicename="testing-menu"><![CDATA[Testing Menu]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_type</wp:meta_key>
     <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
@@ -6084,22 +5908,6 @@ Occasionally in her travels through her children's minds Mrs. Darling found thin
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_tag" nicename="readability"><![CDATA[readability]]></category>
   <category domain="post_tag" nicename="standard-2"><![CDATA[standard]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[post-format-standard-2]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[readability-test]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[markup-readability-test]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Post Format: Gallery</title>
@@ -6152,18 +5960,6 @@ shortcode, including the <code>columns</code> parameter, from 1 to 9 columns. Th
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
   <category domain="post_tag" nicename="shortcode"><![CDATA[shortcode]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[post-format-gallery-2]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_thumbnail_id</wp:meta_key>
-    <wp:meta_value><![CDATA[771]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[post-format-test-gallery]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Post Format: Aside</title>
@@ -6191,14 +5987,6 @@ shortcode, including the <code>columns</code> parameter, from 1 to 9 columns. Th
   <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_format" nicename="post-format-aside"><![CDATA[Aside]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[post-format-aside-2]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[post-format-test-aside]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Post Format: Chat</title>
@@ -6350,10 +6138,6 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_format" nicename="post-format-chat"><![CDATA[Chat]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[post-format-test-chat]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Post Format: Link</title>
@@ -6381,10 +6165,6 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_format" nicename="post-format-link"><![CDATA[Link]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[post-format-test-link]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Post Format: Image (Linked)</title>
@@ -6413,14 +6193,6 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_format" nicename="post-format-image"><![CDATA[Image]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[post-format-test-image]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[post-format-test-image-linked]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Post Format: Quote</title>
@@ -6449,10 +6221,6 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_format" nicename="post-format-quote"><![CDATA[Quote]]></category>
   <category domain="post_tag" nicename="quote"><![CDATA[quote]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[post-format-test-quote]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Post Format: Status</title>
@@ -6480,10 +6248,6 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_format" nicename="post-format-status"><![CDATA[Status]]></category>
   <category domain="post_tag" nicename="status"><![CDATA[status]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[post-format-test-status]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Post Format: Video (WordPress.tv)</title>
@@ -6515,10 +6279,6 @@ Posted as per the <a href="https://codex.wordpress.org/Embeds" target="_blank">i
   <category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
   <category domain="post_tag" nicename="video"><![CDATA[video]]></category>
   <category domain="post_tag" nicename="wordpress-tv"><![CDATA[wordpress.tv]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[post-format-test-video]]></wp:meta_value>
-  </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_oembed_4321638fc1a6fee26443f7fe8a70a871</wp:meta_key>
     <wp:meta_value><![CDATA[<embed src="http://v.wordpress.com/hrPKeL5t" type="application/x-shockwave-flash" width="500" height="281" allowscriptaccess="always" allowfullscreen="true" wmode="transparent"></embed>]]></wp:meta_value>
@@ -6580,10 +6340,6 @@ Audio shortcode:
 audio/mpeg
 ]]></wp:meta_value>
   </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[post-format-test-audio]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Page A</title>
@@ -6606,10 +6362,6 @@ audio/mpeg
   <wp:post_type>page</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:postmeta>
-    <wp:meta_key>_wp_page_template</wp:meta_key>
-    <wp:meta_value><![CDATA[default]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Page B</title>
@@ -6632,10 +6384,6 @@ audio/mpeg
   <wp:post_type>page</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:postmeta>
-    <wp:meta_key>_wp_page_template</wp:meta_key>
-    <wp:meta_value><![CDATA[default]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Level 2a</title>
@@ -6658,10 +6406,6 @@ audio/mpeg
   <wp:post_type>page</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:postmeta>
-    <wp:meta_key>_wp_page_template</wp:meta_key>
-    <wp:meta_value><![CDATA[default]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Level 2b</title>
@@ -6684,10 +6428,6 @@ audio/mpeg
   <wp:post_type>page</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:postmeta>
-    <wp:meta_key>_wp_page_template</wp:meta_key>
-    <wp:meta_value><![CDATA[default]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Level 3a</title>
@@ -6710,10 +6450,6 @@ audio/mpeg
   <wp:post_type>page</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:postmeta>
-    <wp:meta_key>_wp_page_template</wp:meta_key>
-    <wp:meta_value><![CDATA[default]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Level 3b</title>
@@ -6736,10 +6472,6 @@ audio/mpeg
   <wp:post_type>page</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:postmeta>
-    <wp:meta_key>_wp_page_template</wp:meta_key>
-    <wp:meta_value><![CDATA[default]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Template: Excerpt (Defined)</title>
@@ -6768,26 +6500,6 @@ audio/mpeg
   <category domain="post_tag" nicename="template"><![CDATA[template]]></category>
   <category domain="category" nicename="template-2"><![CDATA[Template]]></category>
   <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[excerpt]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[template-excerpt]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[993]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[993]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Template: More Tag</title>
@@ -6822,22 +6534,6 @@ And this content is after the more tag.]]></content:encoded>
   <category domain="post_tag" nicename="template"><![CDATA[template]]></category>
   <category domain="category" nicename="template-2"><![CDATA[Template]]></category>
   <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[more-tag]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[996]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[996]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Edge Case: Nested And Mixed Lists</title>
@@ -6939,30 +6635,6 @@ And this content is after the more tag.]]></content:encoded>
   <category domain="category" nicename="edge-case-2"><![CDATA[Edge Case]]></category>
   <category domain="post_tag" nicename="lists-2"><![CDATA[lists]]></category>
   <category domain="post_tag" nicename="markup-2"><![CDATA[markup]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[nested-and-mixed-lists]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[html-nested-and-mixed-lists]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[markup-nested-and-mixed-lists]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[1000]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[1000]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Template: Featured Image (Horizontal)</title>
@@ -6998,44 +6670,8 @@ This post tests a horizontal featured image.]]></content:encoded>
   <category domain="category" nicename="template-2"><![CDATA[Template]]></category>
   <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
   <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[media-featured-image-horizontal]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[featured-image-horizontal]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[featured-image]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
     <wp:meta_key>_thumbnail_id</wp:meta_key>
     <wp:meta_value><![CDATA[1022]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>standard_seo_post_level_layout</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>standard_link_url_field</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>standard_seo_post_meta_description</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[1011]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[1011]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -7072,40 +6708,8 @@ This post tests a vertical featured image.]]></content:encoded>
   <category domain="category" nicename="template-2"><![CDATA[Template]]></category>
   <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
   <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[media-featured-image-vertical]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[featured-image-vertical]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
     <wp:meta_key>_thumbnail_id</wp:meta_key>
     <wp:meta_value><![CDATA[1027]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>standard_seo_post_level_layout</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>standard_link_url_field</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>standard_seo_post_meta_description</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[1016]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[1016]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -7143,38 +6747,6 @@ This is some text after the Tiled Gallery just to make sure that everything spac
   <category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
   <category domain="post_tag" nicename="shortcode"><![CDATA[shortcode]]></category>
   <category domain="post_tag" nicename="tiled"><![CDATA[tiled]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[tiled-gallery]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[media-tiled-gallery]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>standard_seo_post_level_layout</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>standard_link_url_field</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>standard_seo_post_meta_description</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[1031]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[1031]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Page Image Alignment</title>
@@ -7243,22 +6815,6 @@ And that's a wrap, yo! You survived the tumultuous waters of alignment. Image al
   <wp:post_type>page</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_page_template</wp:meta_key>
-    <wp:meta_value><![CDATA[default]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[1080]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[1080]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Page Markup And Formatting</title>
@@ -7498,30 +7054,6 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
   <wp:post_type>page</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[678]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_page_template</wp:meta_key>
-    <wp:meta_value><![CDATA[default]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>standard_seo_post_meta_description</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[1083]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[1083]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Template: Comments</title>
@@ -7558,30 +7090,6 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
   <category domain="post_tag" nicename="template"><![CDATA[template]]></category>
   <category domain="category" nicename="template-2"><![CDATA[Template]]></category>
   <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[678]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[comment-test]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[149]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[149]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[comments]]></wp:meta_value>
-  </wp:postmeta>
   <wp:comment>
     <wp:comment_id>881</wp:comment_id>
     <wp:comment_author><![CDATA[John Doe]]></wp:comment_author>
@@ -7677,117 +7185,9 @@ Multi line blockquote with a cite reference:
 	<li>List item three</li>
 	<li>List item four</li>
 </ol>
-<h2>HTML Tags</h2>
-These supported tags come from the WordPress.com code <a title="Code" href="https://en.support.wordpress.com/code/" rel="nofollow">FAQ</a>.
-
-<strong>Address Tag</strong>
-
-<address>1 Infinite Loop
-Cupertino, CA 95014
-United States</address><strong>Anchor Tag (aka. Link)</strong>
-
-This is an example of a <a title="WordPress Foundation" href="hhttps://wordpressfoundation.org/" rel="nofollow">link</a>.
-
-<strong>Abbreviation Tag</strong>
-
-The abbreviation <abbr title="Seriously">srsly</abbr> stands for "seriously".
-
-<strong>Acronym Tag (<em>deprecated in HTML5</em>)</strong>
-
-The acronym <acronym title="For The Win">ftw</acronym> stands for "for the win".
-
-<strong>Big Tag</strong> (<em>deprecated in HTML5</em>)
-
-These tests are a <big>big</big> deal, but this tag is no longer supported in HTML5.
-
-<strong>Cite Tag</strong>
-
-"Code is poetry." --<cite>Automattic</cite>
-
-<strong>Code Tag</strong>
-
-This tag styles blocks of code.
-<code>.post-title {
-	margin: 0 0 5px;
-	font-weight: bold;
-	font-size: 38px;
-	line-height: 1.2;
-	and here's a line of some really, really, really, really long text, just to see how it is handled and to find out how it overflows;
-}</code>
-You will learn later on in these tests that word-wrap: break-word;will be your best friend.
-
-<strong>Delete Tag</strong>
-
-This tag will let you <del cite="deleted it">strike out text</del>, but this tag is <em>recommended</em> supported in HTML5 (use the <code>&lt;s&gt;</code> instead).
-
-<strong>Emphasize Tag</strong>
-
-The emphasize tag should <em>italicize</em> <i>text</i>.
-
-<strong>Horizontal Rule Tag</strong>
-
-<hr />
-
-This sentence is following a <code>&lt;hr /&gt;</code> tag.
-
-<strong>Insert Tag</strong>
-
-This tag should denote <ins cite="inserted it">inserted</ins> text.
-
-<strong>Keyboard Tag</strong>
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the <code>&lt;code&gt;</code> tag.
-
-<strong>Preformatted Tag</strong>
-
-This tag is for preserving whitespace as typed, such as in poetry or ASCII art.
-<pre>
-<h2>The Road Not Taken</h2>
-<cite>Robert Frost</cite>
-
-
-  Two roads diverged in a yellow wood,
-  And sorry I could not travel both          (\_/)
-  And be one traveler, long I stood         (='.'=)
-  And looked down one as far as I could     (")_(")
-  To where it bent in the undergrowth;
-
-  Then took the other, as just as fair,
-  And having perhaps the better claim,          |\_/|
-  Because it was grassy and wanted wear;       / @ @ \
-  Though as for that the passing there        ( > º < )
-  Had worn them really about the same,         `>>x<<´
-                                               /  O  \
-  And both that morning equally lay
-  In leaves no step had trodden black.
-  Oh, I kept the first for another day!
-  Yet knowing how way leads on to way,
-  I doubted if I should ever come back.
-
-  I shall be telling this with a sigh
-  Somewhere ages and ages hence:
-  Two roads diverged in a wood, and I—
-  I took the one less traveled by,
-  And that has made all the difference.
-
-
-  and here's a line of some really, really, really, really long text, just to see how it is handled and to find out how it overflows;
-</pre>
 <strong>Quote Tag</strong> for short, inline quotes
 
 <q>Developers, developers, developers...</q> --Steve Ballmer
-
-<strong>Strike Tag</strong> (<em>deprecated in HTML5</em>) and <strong>S Tag</strong>
-
-This tag shows <strike>strike-through</strike> <s>text</s>.
-
-<strong>Small Tag</strong>
-
-This tag shows <small>smaller<small> text.</small></small>
-
-<strong>Strong Tag</strong>
-
-This tag shows <strong>bold<strong> text.</strong></strong>
 
 <strong>Subscript Tag</strong>
 
@@ -7795,27 +7195,11 @@ Getting our science styling on with H<sub>2</sub>O, which should push the "2" do
 
 <strong>Superscript Tag</strong>
 
-Still sticking with science and Albert Einstein's E = MC<sup>2</sup>, which should lift the 2 up.
-
-<strong>Teletype Tag </strong>(<em>obsolete in HTML5</em>)
-
-This rarely used tag emulates <tt>teletype text</tt>, which is usually styled like the <code>&lt;code&gt;</code> tag.
-
-<strong>Underline Tag</strong> <em>deprecated in HTML 4, re-introduced in HTML5 with other semantics</em>
-
-This tag shows <u>underlined text</u>.
-
-<strong>Variable Tag</strong>
-
-This allows you to denote <var>variables</var>.]]></wp:comment_content>
+Still sticking with science and Albert Einstein's E = MC<sup>2</sup>, which should lift the 2 up.]]></wp:comment_content>
     <wp:comment_approved>1</wp:comment_approved>
     <wp:comment_type/>
     <wp:comment_parent>0</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2012-09-03 17:18:04</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>899</wp:comment_id>
@@ -7835,10 +7219,6 @@ This allows you to denote <var>variables</var>.]]></wp:comment_content>
     <wp:comment_type/>
     <wp:comment_parent>0</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2013-03-12 04:45:54</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>900</wp:comment_id>
@@ -7853,10 +7233,6 @@ This allows you to denote <var>variables</var>.]]></wp:comment_content>
     <wp:comment_type/>
     <wp:comment_parent>0</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2013-03-12 20:17:35</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>901</wp:comment_id>
@@ -7871,10 +7247,6 @@ This allows you to denote <var>variables</var>.]]></wp:comment_content>
     <wp:comment_type/>
     <wp:comment_parent>0</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2013-03-14 14:53:26</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>903</wp:comment_id>
@@ -7889,10 +7261,6 @@ This allows you to denote <var>variables</var>.]]></wp:comment_content>
     <wp:comment_type/>
     <wp:comment_parent>0</wp:comment_parent>
     <wp:comment_user_id>24783058</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2013-03-14 14:56:46</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>904</wp:comment_id>
@@ -7907,10 +7275,6 @@ This allows you to denote <var>variables</var>.]]></wp:comment_content>
     <wp:comment_type/>
     <wp:comment_parent>0</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2013-03-14 14:57:01</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>905</wp:comment_id>
@@ -7925,10 +7289,6 @@ This allows you to denote <var>variables</var>.]]></wp:comment_content>
     <wp:comment_type/>
     <wp:comment_parent>904</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2013-03-14 15:01:21</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>906</wp:comment_id>
@@ -7943,10 +7303,6 @@ This allows you to denote <var>variables</var>.]]></wp:comment_content>
     <wp:comment_type/>
     <wp:comment_parent>905</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2013-03-14 15:02:06</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>907</wp:comment_id>
@@ -7961,10 +7317,6 @@ This allows you to denote <var>variables</var>.]]></wp:comment_content>
     <wp:comment_type/>
     <wp:comment_parent>906</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2013-03-14 15:03:22</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>910</wp:comment_id>
@@ -7981,10 +7333,6 @@ Also an author comment.]]></wp:comment_content>
     <wp:comment_type/>
     <wp:comment_parent>907</wp:comment_parent>
     <wp:comment_user_id>24783058</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2013-03-14 15:10:29</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>911</wp:comment_id>
@@ -7994,15 +7342,11 @@ Also an author comment.]]></wp:comment_content>
     <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2013-03-14 08:12:16</wp:comment_date>
     <wp:comment_date_gmt>2013-03-14 15:12:16</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[Comment Depth 06]]></wp:comment_content>
+    <wp:comment_content><![CDATA[Comment Depth 06 has some more text than some of the other comments on this post.]]></wp:comment_content>
     <wp:comment_approved>1</wp:comment_approved>
     <wp:comment_type/>
     <wp:comment_parent>910</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2013-03-14 15:12:16</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>912</wp:comment_id>
@@ -8012,15 +7356,11 @@ Also an author comment.]]></wp:comment_content>
     <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2013-03-14 08:12:58</wp:comment_date>
     <wp:comment_date_gmt>2013-03-14 15:12:58</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[Comment Depth 07]]></wp:comment_content>
+    <wp:comment_content><![CDATA[Comment Depth 07 has a little bit.]]></wp:comment_content>
     <wp:comment_approved>1</wp:comment_approved>
     <wp:comment_type/>
     <wp:comment_parent>911</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2013-03-14 15:12:58</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>913</wp:comment_id>
@@ -8035,10 +7375,6 @@ Also an author comment.]]></wp:comment_content>
     <wp:comment_type/>
     <wp:comment_parent>912</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2013-03-14 15:13:42</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>914</wp:comment_id>
@@ -8048,15 +7384,11 @@ Also an author comment.]]></wp:comment_content>
     <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2013-03-14 08:14:13</wp:comment_date>
     <wp:comment_date_gmt>2013-03-14 15:14:13</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[Comment Depth 09]]></wp:comment_content>
+    <wp:comment_content><![CDATA[Comment Depth 09 is way nested, but there are a lot of sites with very nested comments.]]></wp:comment_content>
     <wp:comment_approved>1</wp:comment_approved>
     <wp:comment_type/>
     <wp:comment_parent>913</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2013-03-14 15:14:13</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>915</wp:comment_id>
@@ -8073,10 +7405,6 @@ Also an author comment.]]></wp:comment_content>
     <wp:comment_type/>
     <wp:comment_parent>914</wp:comment_parent>
     <wp:comment_user_id>24783058</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2013-03-14 15:14:47</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>917</wp:comment_id>
@@ -8088,15 +7416,12 @@ Also an author comment.]]></wp:comment_content>
     <wp:comment_date_gmt>2013-03-14 16:56:43</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[Image comment.
     <img src="https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050102_192118_51.jpg?w=171&h=128" alt="Albany wind-farm against the sunset, Western Australia" />
+    If the image imports...
     ]]></wp:comment_content>
     <wp:comment_approved>1</wp:comment_approved>
     <wp:comment_type/>
     <wp:comment_parent>0</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2013-03-14 16:56:43</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>918</wp:comment_id>
@@ -8111,10 +7436,6 @@ Also an author comment.]]></wp:comment_content>
     <wp:comment_type/>
     <wp:comment_parent>0</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2013-03-14 18:23:24</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>919</wp:comment_id>
@@ -8129,10 +7450,6 @@ Also an author comment.]]></wp:comment_content>
     <wp:comment_type/>
     <wp:comment_parent>0</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2013-03-14 18:27:54</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>920</wp:comment_id>
@@ -8147,10 +7464,6 @@ Also an author comment.]]></wp:comment_content>
     <wp:comment_type/>
     <wp:comment_parent>0</wp:comment_parent>
     <wp:comment_user_id>24783058</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2013-03-14 18:30:33</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>1015</wp:comment_id>
@@ -8160,31 +7473,13 @@ Also an author comment.]]></wp:comment_content>
     <wp:comment_author_IP></wp:comment_author_IP>
     <wp:comment_date>2014-09-29 02:52:15</wp:comment_date>
     <wp:comment_date_gmt>2014-09-29 09:52:15</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[this is test comment]]></wp:comment_content>
+    <wp:comment_content><![CDATA[this is test comment
+
+    	Feeling testy?]]></wp:comment_content>
     <wp:comment_approved>0</wp:comment_approved>
     <wp:comment_type/>
     <wp:comment_parent>0</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";d:1411984336.2695729732513427734375;s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>email_notification_queued</wp:meta_key>
-      <wp:meta_value>1411984336</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2014-09-29 09:52:17</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";d:1417324489.9248790740966796875;s:7:"message";s:43:"Akismet re-checked and cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
 </item>
 <item>
@@ -8222,27 +7517,7 @@ There are a few ways to list them.
   <category domain="category" nicename="template-2"><![CDATA[Template]]></category>
   <category domain="post_tag" nicename="trackbacks-2"><![CDATA[trackbacks]]></category>
   <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[pingbacks-an-trackbacks]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[many-trackbacks]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[151]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[151]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:comment>
+   <wp:comment>
     <wp:comment_id>921</wp:comment_id>
     <wp:comment_author><![CDATA[Ping 1 &laquo; What&#8217;s a tellyworth?]]></wp:comment_author>
     <wp:comment_author_email/>
@@ -8252,13 +7527,9 @@ There are a few ways to list them.
     <wp:comment_date_gmt>2007-11-21 01:31:12</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[[...] Trackback test. [...]]]></wp:comment_content>
     <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type>pingback</wp:comment_type>
+    <wp:comment_type>trackback</wp:comment_type>
     <wp:comment_parent>0</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2007-11-21 01:31:12</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>922</wp:comment_id>
@@ -8270,13 +7541,9 @@ There are a few ways to list them.
     <wp:comment_date_gmt>2007-11-21 01:35:47</wp:comment_date_gmt>
     <wp:comment_content><![CDATA[[...] Another trackback test.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec hendrerit gravida nisi. Praesent libero odio, tincidunt nec, fringilla et, mollis ut, ipsum. Proin a lacus quis nisi pulvinar bibendum. Donec massa justo, dapibus at, imperdiet vestibulum, dapibus in, leo. Donec pretium tellus in dui. Phasellus tristique aliquet justo. Donec sodales. Nulla urna mi, molestie ac, malesuada sit amet, sagittis id, lacus. Mauris auctor leo ac justo. Proin convallis. Nulla eleifend dictum mi. Donec at lectus. Integer augue sapien, ornare vitae, rhoncus quis, rhoncus sed, sapien. Nunc mattis diam sodales diam.Etiam porttitor, ante sed varius semper, ante arcu rutrum tortor, at luctus nunc urna id nibh. Fusce sodales. Integer sed ligula. Donec posuere, nibh aliquet auctor congue, augue est porttitor odio, imperdiet facilisis tortor urna vel mauris. Pellentesque pretium, lorem non pellentesque varius, elit diam ultrices mi, sed posuere sapien lectus sed mi. Donec vestibulum urna. Donec gravida elit et enim. Ut dignissim neque ut erat. Morbi tincidunt nunc vitae lorem. Morbi rhoncus mi. Praesent facilisis tincidunt enim. Ut pulvinar. Suspendisse potenti. Vivamus turpis odio, porta at, malesuada in, iaculis eget, odio. Aenean faucibus, urna quis congue dignissim, orci tellus ornare leo, eget viverra ante ipsum sit amet magna. Suspendisse mattis nunc at justo. Nullam malesuada lobortis lorem. Morbi ultricies. Nam risus erat, sagittis ut, tristique rhoncus, luctus id, ante. Maecenas ac dui. [...]]]></wp:comment_content>
     <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type>pingback</wp:comment_type>
+    <wp:comment_type>trackback</wp:comment_type>
     <wp:comment_parent>0</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2007-11-21 01:35:47</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>923</wp:comment_id>
@@ -8291,10 +7558,6 @@ There are a few ways to list them.
     <wp:comment_type>pingback</wp:comment_type>
     <wp:comment_parent>0</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2007-11-21 01:39:25</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>924</wp:comment_id>
@@ -8309,10 +7572,6 @@ There are a few ways to list them.
     <wp:comment_type>pingback</wp:comment_type>
     <wp:comment_parent>0</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2007-11-21 01:38:22</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
   <wp:comment>
     <wp:comment_id>925</wp:comment_id>
@@ -8327,10 +7586,6 @@ There are a few ways to list them.
     <wp:comment_type/>
     <wp:comment_parent>0</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2010-06-11 22:27:04</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
 </item>
 <item>
@@ -8361,30 +7616,6 @@ There should be no comment reply form, but <em>should</em> display pingbacks and
   <category domain="post_tag" nicename="template"><![CDATA[template]]></category>
   <category domain="category" nicename="template-2"><![CDATA[Template]]></category>
   <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[no-comments]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[52786]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[152]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[152]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[comments-disabled-2]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Edge Case: Many Tags</title>
@@ -8454,26 +7685,6 @@ There should be no comment reply form, but <em>should</em> display pingbacks and
   <category domain="post_tag" nicename="videopress"><![CDATA[videopress]]></category>
   <category domain="post_tag" nicename="wordpress"><![CDATA[WordPress]]></category>
   <category domain="post_tag" nicename="wordpress-tv"><![CDATA[wordpress.tv]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[52786]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[167]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[167]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[many-tags-2]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Edge Case: Many Categories</title>
@@ -8561,26 +7772,6 @@ There should be no comment reply form, but <em>should</em> display pingbacks and
   <category domain="category" nicename="wellintentioned"><![CDATA[wellintentioned]]></category>
   <category domain="category" nicename="whetstone"><![CDATA[whetstone]]></category>
   <category domain="category" nicename="years"><![CDATA[years]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[many-categories-2]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[52786]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[168]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[168]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Scheduled</title>
@@ -8608,14 +7799,6 @@ It should not be displayed by the theme.]]></content:encoded>
   <category domain="post_tag" nicename="content-2"><![CDATA[content]]></category>
   <category domain="category" nicename="unpublished"><![CDATA[Unpublished]]></category>
   <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[418]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[418]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Post Format: Image</title>
@@ -8645,26 +7828,6 @@ It should not be displayed by the theme.]]></content:encoded>
   <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_format" nicename="post-format-image"><![CDATA[Image]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[post-format-test-image]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[post-format-test-image-linked]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[568]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[568]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Post Format: Video (YouTube)</title>
@@ -8693,26 +7856,6 @@ Learn more about <a title="WordPress Embeds" href="https://codex.wordpress.org/E
   <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[post-format-test-video]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[post-format-video]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[582]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[582]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Post Format: Image (Caption)</title>
@@ -8742,52 +7885,8 @@ Learn more about <a title="WordPress Embeds" href="https://codex.wordpress.org/E
   <category domain="post_format" nicename="post-format-image"><![CDATA[Image]]></category>
   <category domain="post_tag" nicename="shortcode"><![CDATA[shortcode]]></category>
   <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[post-format-test-image-attached]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[674]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[674]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
     <wp:meta_key>_thumbnail_id</wp:meta_key>
     <wp:meta_value><![CDATA[1628]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_format_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_format_link_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_format_quote_source_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_format_quote_source_name</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_format_image</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_format_audio_embed</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_format_video_embed</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -8816,30 +7915,6 @@ It should not be displayed by the theme.]]></content:encoded>
   <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="content-2"><![CDATA[content]]></category>
   <category domain="category" nicename="unpublished"><![CDATA[Unpublished]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[52786]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>standard_seo_post_level_layout</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>standard_link_url_field</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>standard_seo_post_meta_description</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[922]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[922]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Template: Password Protected (the password is "enter")</title>
@@ -8867,26 +7942,6 @@ It should not be displayed by the theme.]]></content:encoded>
   <category domain="post_tag" nicename="template"><![CDATA[template]]></category>
   <category domain="category" nicename="template-2"><![CDATA[Template]]></category>
   <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[password-protected]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[test-with-secret-password]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[131]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[131]]></wp:meta_value>
-  </wp:postmeta>
   <wp:comment>
     <wp:comment_id>926</wp:comment_id>
     <wp:comment_author><![CDATA[Jane Doe]]></wp:comment_author>
@@ -8930,30 +7985,6 @@ This is typically done by placing the permalink on the post date.]]></content:en
   <category domain="category" nicename="edge-case-2"><![CDATA[Edge Case]]></category>
   <category domain="post_tag" nicename="layout"><![CDATA[layout]]></category>
   <category domain="post_tag" nicename="title"><![CDATA[title]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[14]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[52786]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[133]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[133]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[no-title-2]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Edge Case: No Content</title>
@@ -8981,30 +8012,6 @@ This is typically done by placing the permalink on the post date.]]></content:en
   <category domain="post_tag" nicename="edge-case"><![CDATA[edge case]]></category>
   <category domain="category" nicename="edge-case-2"><![CDATA[Edge Case]]></category>
   <category domain="post_tag" nicename="layout"><![CDATA[layout]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[52786]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[this-post-has-no-body]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[134]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[134]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[no-content]]></wp:meta_value>
-  </wp:postmeta>
   <wp:comment>
     <wp:comment_id>927</wp:comment_id>
     <wp:comment_author><![CDATA[John Doe]]></wp:comment_author>
@@ -9018,10 +8025,6 @@ This is typically done by placing the permalink on the post date.]]></content:en
     <wp:comment_type/>
     <wp:comment_parent>0</wp:comment_parent>
     <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2013-03-14 19:35:07</wp:meta_value>
-    </wp:commentmeta>
   </wp:comment>
 </item>
 <item>
@@ -9059,30 +8062,6 @@ Post Page 3]]></content:encoded>
   <category domain="post_tag" nicename="template"><![CDATA[template]]></category>
   <category domain="category" nicename="template-2"><![CDATA[Template]]></category>
   <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[52786]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[layout-test]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[188]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[188]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[paginated]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Markup: Title &lt;em&gt;With&lt;/em&gt; &lt;b&gt;Markup&lt;/b&gt;</title>
@@ -9114,26 +8093,6 @@ Post Page 3]]></content:encoded>
   <category domain="post_tag" nicename="html"><![CDATA[html]]></category>
   <category domain="category" nicename="markup"><![CDATA[Markup]]></category>
   <category domain="post_tag" nicename="title"><![CDATA[title]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[52786]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[861]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[861]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[title-with-markup]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Markup: Title With Special Characters ~`!@#$%^&amp;*()-_=+{}[]/\;:&#039;&quot;?,.&gt;</title>
@@ -9290,18 +8249,6 @@ This is a test to see if the fonts used in this theme support basic Latin charac
   <category domain="post_tag" nicename="markup-2"><![CDATA[markup]]></category>
   <category domain="post_tag" nicename="post"><![CDATA[post]]></category>
   <category domain="post_tag" nicename="title"><![CDATA[title]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[867]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[867]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu</title>
@@ -9345,34 +8292,6 @@ word-wrap: break-word;</pre>
   <category domain="post_tag" nicename="html"><![CDATA[html]]></category>
   <category domain="post_tag" nicename="layout"><![CDATA[layout]]></category>
   <category domain="post_tag" nicename="title"><![CDATA[title]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[edge-case-non-breaking-text]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[non-breaking-text]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[678]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[non-breaking-tex]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[877]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[877]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Markup: Text Alignment</title>
@@ -9413,26 +8332,6 @@ This is a paragraph. It should not have any alignment of any kind. It should jus
   <category domain="post_tag" nicename="css"><![CDATA[css]]></category>
   <category domain="category" nicename="markup"><![CDATA[Markup]]></category>
   <category domain="post_tag" nicename="markup-2"><![CDATA[markup]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[text-alignment]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[52786]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[895]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[895]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Markup: Image Alignment</title>
@@ -9514,34 +8413,6 @@ And that's a wrap, yo! You survived the tumultuous waters of alignment. Image al
   <wp:postmeta>
     <wp:meta_key>_thumbnail_id</wp:meta_key>
     <wp:meta_value><![CDATA[1023]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[image-alignment]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>standard_seo_post_level_layout</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>standard_link_url_field</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>standard_seo_post_meta_description</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[903]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[903]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -9791,38 +8662,6 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
   <category domain="post_tag" nicename="html"><![CDATA[html]]></category>
   <category domain="category" nicename="markup"><![CDATA[Markup]]></category>
   <category domain="post_tag" nicename="markup-2"><![CDATA[markup]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[markup-and-formatting]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[52786]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>standard_seo_post_level_layout</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>standard_link_url_field</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>standard_seo_post_meta_description</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[919]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[919]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Media: Twitter Embeds</title>
@@ -9869,38 +8708,6 @@ This post tests WordPress' <a title="Twitter Embeds" href="https://en.support.wo
     <wp:meta_key>_oembed_d01e104b758ab65a49dfdede5913069c</wp:meta_key>
     <wp:meta_value><![CDATA[<div class="embed-twitter"><blockquote class="twitter-tweet" width="550"><p>Really cool to read through and find so much awesomeness added to WordPress 3.6 while I was gone. I should take three weeks off more often.</p>&mdash; Andrew Nacin (@nacin) <a href="https://twitter.com/nacin/status/319508408669708289">April 3, 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>]]></wp:meta_value>
   </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[52786]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>standard_seo_post_level_layout</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>standard_link_url_field</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>standard_seo_post_meta_description</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[twitter-embeds]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[1027]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[1027]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Template: Sticky</title>
@@ -9935,38 +8742,6 @@ There are a few things to verify:
   <category domain="post_tag" nicename="sticky-2"><![CDATA[sticky]]></category>
   <category domain="post_tag" nicename="template"><![CDATA[template]]></category>
   <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[52786]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>standard_seo_post_level_layout</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>standard_link_url_field</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>standard_seo_post_meta_description</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>original_post_id</wp:meta_key>
-    <wp:meta_value><![CDATA[1241]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[1241]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[sticky]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title>Template: Excerpt (Generated)</title>
@@ -9997,14 +8772,6 @@ Be sure to test the formatting of the auto-generated excerpt, to ensure that it 
   <category domain="post_tag" nicename="template"><![CDATA[template]]></category>
   <category domain="category" nicename="template-2"><![CDATA[Template]]></category>
   <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[52786]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
 		<title>Block category: Common</title>
@@ -10262,10 +9029,6 @@ The custom HTML block
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="block"><![CDATA[Block]]></category>
     <category domain="post_tag" nicename="formatting-2"><![CDATA[formatting]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 </item>
 <item>
 		<title>Block category: Layout Elements</title>
@@ -10393,10 +9156,6 @@ The custom HTML block
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="block"><![CDATA[Block]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 	</item>
 	<item>
     <title>Block category: Embeds</title>
@@ -10470,10 +9229,6 @@ https://wordpress.tv/2018/10/14/kjell-reigstad-allan-cole-how-we-made-our-first-
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_8391feecdd4849ee3e1e157e0c2149eb]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1541053042]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_874fe46ae491204826d1694d2ef33bc0]]></wp:meta_key>
@@ -10600,10 +9355,6 @@ This is a shortcode widget.
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="block"><![CDATA[Block]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 </item>
 <item>
 		<title>Block: Columns</title>
@@ -10856,10 +9607,6 @@ The third column block has 4 columns. Make sure that all the text is visible and
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="block"><![CDATA[Block]]></category>
 		<category domain="post_tag" nicename="columns"><![CDATA[Columns]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 	</item>
 <item>
 		<title>Block: Cover</title>
@@ -10938,10 +9685,6 @@ The third column block has 4 columns. Make sure that all the text is visible and
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="block"><![CDATA[Block]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 </item>
 <item>
 		<title>Block: Button</title>
@@ -11031,10 +9774,6 @@ The third column block has 4 columns. Make sure that all the text is visible and
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="block"><![CDATA[Block]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 	</item>
   <item>
 		<title>Block: Quote</title>
