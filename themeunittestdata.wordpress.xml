@@ -1597,13 +1597,13 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   </wp:postmeta>
 </item>
 <item>
-  <title>Blog</title>
+  <title>a Blog page</title>
   <link>https://wpthemetestdata.wordpress.com/blog/</link>
   <pubDate>Sat, 21 May 2011 01:51:43 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?page_id=703</guid>
   <description/>
-  <content:encoded><![CDATA[Use this static Page to test the Theme's handling of the Blog Posts Index page. If the site is set to display a static Page on the Front Page, and this Page is set to display the Blog Posts Index, then this text should not appear.]]></content:encoded>
+  <content:encoded><![CDATA[Use this static Page to test the Theme's handling of the Blog Posts Index page. If the site is set to display a static Page on the Front Page, and this Page is set to display the Blog Posts Index, then this text should not appear. The title might, so make sure the theme is not supplying a hard-coded title for the Blog Post Index.]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>703</wp:post_id>
   <wp:post_date>2011-05-20 18:51:43</wp:post_date>
@@ -8585,7 +8585,7 @@ There should be no comment reply form, but <em>should</em> display pingbacks and
 <item>
   <title>Scheduled</title>
   <link>https://wpthemetestdata.wordpress.com/2020/01/01/scheduled/</link>
-  <pubDate>Wed, 01 Jan 2020 19:00:18 +0000</pubDate>
+  <pubDate>Wed, 01 Jan 2030 19:00:18 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=418</guid>
   <description/>
@@ -8594,8 +8594,8 @@ There should be no comment reply form, but <em>should</em> display pingbacks and
 It should not be displayed by the theme.]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>1153</wp:post_id>
-  <wp:post_date>2020-01-01 12:00:18</wp:post_date>
-  <wp:post_date_gmt>2020-01-01 19:00:18</wp:post_date_gmt>
+  <wp:post_date>2030-01-01 12:00:18</wp:post_date>
+  <wp:post_date_gmt>2030-01-01 19:00:18</wp:post_date_gmt>
   <wp:comment_status>closed</wp:comment_status>
   <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>scheduled</wp:post_name>
@@ -11137,7 +11137,7 @@ Francisco</figcaption></figure></li><li class="blocks-gallery-item"><figure><img
 <!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
-<p></p>
+<p>Some more text for taking up space.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -11145,11 +11145,11 @@ Francisco</figcaption></figure></li><li class="blocks-gallery-item"><figure><img
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The image captions can be edited directly by clicking on the text.</p>
+<p>In the editor, the image captions can be edited directly by clicking on the text.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If the number of images cannot be divided into the number of columns you have selected, the last image(s) should automatically stretch to the width of your gallery.</p>
+<p>If the number of images cannot be divided into the number of columns you have selected, the default is to have the last image(s) automatically stretch to the width of your gallery.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -11160,13 +11160,6 @@ Francisco</figcaption></figure></li><li class="blocks-gallery-item"><figure><img
 <div style="height:200px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p>A four column gallery with a wide width:</p>
@@ -11188,7 +11181,7 @@ tempor eu, gravida id, odio. Maecenas suscipit, risus et eleifend imperdiet, nis
 <!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
-<p>A five column gallery without cropped images:</p>
+<p>A five column gallery with normal  images:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"columns":5,"imageCrop":false} -->
@@ -11203,7 +11196,7 @@ tempor eu, gravida id, odio. Maecenas suscipit, risus et eleifend imperdiet, nis
 <!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
-<p>Compare this to the same gallery but with cropped images:</p>
+<p>This is the same gallery, but <b>with cropped images</b>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"columns":5} -->
@@ -11218,7 +11211,7 @@ tempor eu, gravida id, odio. Maecenas suscipit, risus et eleifend imperdiet, nis
 <!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
-<p>Six columns:</p>
+<p>Six columns: does it work at all window sizes?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"columns":6} -->
@@ -11241,7 +11234,7 @@ Raindrop ripples on a pond</figcaption></figure></li><li class="blocks-gallery-i
 <!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
-<p>Seven columns:</p>
+<p>Seven columns: how does this look on a narrow window?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"columns":7} -->
@@ -11335,7 +11328,7 @@ alt="Rusty Rail" data-id="764" data-link="https://wpthemetestdata.wordpress.com/
 		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1755</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Welcome to image alignment! If you recognize this post, it is because these blocks have been converted from the classic <em>Markup: Image Alignment</em> post. The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let's get started.</p>
+<p>Welcome to image alignment! If you recognize this post, it is because these are blocks that have been converted from the classic <em>Markup: Image Alignment</em> post. The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let's get started. Be sure to try it in RTL mode. Left should stay left and right should stay right for both reading directions.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
