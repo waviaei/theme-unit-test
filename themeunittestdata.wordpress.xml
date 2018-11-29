@@ -1074,11 +1074,11 @@
 	<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1724</guid>
 	<description></description>
 	<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>There are many different ways to use the web besides a mouse and a pair of eyes.  Users navigate for example with a keyboard only or with their voice. </p>
+<p>There are many different ways to use the web besides a mouse and a pair of eyes.  Users navigate for example with a keyboard only or with their voice. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>All the functionality, including menus, links and forms should work using a <strong>keyboard only</strong>. This is essential for all assistive technology to work properly. The only way to test this, at the moment, is manually. The best time to test this is during development.</p>
+<p>All the functionality, including menus, links and forms should work using a <strong>keyboard only</strong>. This is essential for all assistive technology to work properly. The only way to test this, at the moment, is manually. The best time to test this is during development.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -1090,7 +1090,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>Confirm that all links can be reached and activated via keyboard, including any in dropdown submenus.</li><li>Confirm that all links get a visible focus indicator (e.g., a border highlight).</li><li>Confirm that all <a href="https://make.wordpress.org/accessibility/handbook/best-practices/markup/the-css-class-screen-reader-text/">visually hidden links</a> (e.g. <a href="https://make.wordpress.org/accessibility/handbook/best-practices/markup/skip-links/">skip links</a>) become visible when in focus.</li><li>Confirm that all form input fields and buttons can be accessed and used via keyboard.</li><li>Confirm that all interactions, buttons, and other controls can be triggered via keyboard — any action you can complete with a mouse must also be performable via keyboard.</li><li>Confirm that focus doesn’t move in unexpected ways around the page.</li><li>Confirm that using shift+tab to move backwards works as well.</li></ul>
+<ul><li>Confirm that all links can be reached and activated via keyboard, including any in dropdown submenus.</li><li>Confirm that all links get a visible focus indicator (e.g., a border highlight).</li><li>Confirm that all <a href="https://make.wordpress.org/accessibility/handbook/best-practices/markup/the-css-class-screen-reader-text/">visually hidden links</a> (e.g. <a href="https://make.wordpress.org/accessibility/handbook/best-practices/markup/skip-links/">skip links</a>) become visible when in focus.</li><li>Confirm that all form input fields and buttons can be accessed and used via keyboard.</li><li>Confirm that all interactions, buttons, and other controls can be triggered via keyboard — any action you can complete with a mouse must also be performable via keyboard.</li><li>Confirm that focus doesn’t move in unexpected ways around the page.</li><li>Confirm that using shift+tab to move backwards works as well.</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:heading {"level":3} -->
@@ -1098,7 +1098,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:list -->
-<ul><li><a href="https://make.wordpress.org/accessibility/handbook/">The Make WordPress Accessibility Handbook </a><ul><li><a href="https://make.wordpress.org/accessibility/handbook/test-for-web-accessibility/">Test for web accessibility</a></li></ul></li><li><a href="https://webaim.org/techniques/keyboard/">Keyboard Accessibility</a> by WebAIM</li><li><a href="http://rianrietveld.com/2016/05/10/keyboard/">Workshop keyboard accessibility</a></li><li><a href="https://make.wordpress.org/themes/handbook/review/accessibility/required/">Theme review accessibility-ready requirements: Keyboard Navigation</a></li></ul>
+<ul><li><a href="https://make.wordpress.org/accessibility/handbook/">The Make WordPress Accessibility Handbook </a><ul><li><a href="https://make.wordpress.org/accessibility/handbook/test-for-web-accessibility/">Test for web accessibility</a></li></ul></li><li><a href="https://webaim.org/techniques/keyboard/">Keyboard Accessibility</a> by WebAIM</li><li><a href="http://rianrietveld.com/2016/05/10/keyboard/">Workshop keyboard accessibility</a></li><li><a href="https://make.wordpress.org/themes/handbook/review/accessibility/required/">Theme review accessibility-ready requirements: Keyboard Navigation</a></li></ul>
 <!-- /wp:list -->]]></content:encoded>
 	 <excerpt:encoded><![CDATA[]]></excerpt:encoded>
 	 <wp:post_id>1724</wp:post_id>
@@ -5920,9 +5920,7 @@ Occasionally in her travels through her children's minds Mrs. Darling found thin
 
 <!--nextpage-->
 
-You can use this page to test the Theme's handling of the[gallery]
-
-shortcode, including the <code>columns</code> parameter, from 1 to 9 columns. Themes are only required to support the default setting (3 columns), so this page is entirely optional.
+You can use this page to test the Theme's handling of the gallery shortcode, including the <code>columns</code> parameter, from 1 to 9 columns. Themes are only required to support the default setting (3 columns), so this page is entirely optional.
 <h2>One Column</h2>
 [gallery columns="1"]
 <h2>Two Columns</h2>
@@ -6757,11 +6755,11 @@ This is some text after the Tiled Gallery just to make sure that everything spac
   <description/>
   <content:encoded><![CDATA[Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let's get started.
 
-On the topic of alignment, it should be noted that users can choose from the options of <em>None</em>, <em>Left</em>, <em>Right, </em>and <em>Center</em>. In addition, they also get the options of <em>Thumbnail</em>, <em>Medium</em>, <em>Large</em> &amp; <em>Fullsize</em>.
-<p style="text-align:center;"><img class="size-full wp-image-906 aligncenter" title="Image Alignment 580x300" alt="Image Alignment 580x300" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-580x300.jpg" width="580" height="300" /></p>
+On the topic of alignment, it should be noted that users can choose from the options of <em>None</em>, <em>Left</em>, <em>Right, </em>and <em>Center</em>. In addition, they also get the options of <em>Thumbnail</em>, <em>Medium</em>, <em>Large</em> &amp; <em>Fullsize</em>. Be sure to try this page in RTL mode and it should look the same as LTR. 
+<p><img class="size-full wp-image-906 aligncenter" title="Image Alignment 580x300" alt="Image Alignment 580x300" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-580x300.jpg" width="580" height="300" /></p>
 The image above happens to be <em><strong>centered</strong></em>.
 
-<strong><img class="size-full wp-image-904 alignleft" title="Image Alignment 150x150" alt="Image Alignment 150x150" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-150x150.jpg" width="150" height="150" /></strong>The rest of this paragraph is filler for the sake of seeing the text wrap around the 150x150 image, which is <em><strong>left aligned</strong></em>. <strong></strong>
+<img class="size-full wp-image-904 alignleft" title="Image Alignment 150x150" alt="Image Alignment 150x150" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-150x150.jpg" width="150" height="150" /> The rest of this paragraph is filler for the sake of seeing the text wrap around the 150x150 image, which is <em><strong>left aligned</strong></em>. 
 
 As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we'll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it's thang. Mission accomplished!
 
@@ -6770,6 +6768,10 @@ And now for a <em><strong>massively large image</strong></em>. It also has <em><
 <img class="alignnone  wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" />
 
 The image above, though 1200px wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.
+
+<img class="aligncenter  wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" />
+
+And we try the large image again, with the center alignment since that sometimes is a problem. The image above, though 1200px wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.
 
 <img class="size-full wp-image-905 alignright" title="Image Alignment 300x200" alt="Image Alignment 300x200" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-300x200.jpg" width="300" height="200" />
 
@@ -6783,17 +6785,20 @@ And just when you thought we were done, we're going to do them all over again wi
 
 The image above happens to be <em><strong>centered</strong></em>. The caption also has a link in it, just to see if it does anything funky.
 
-[caption id="attachment_904" align="alignleft" width="150"]<img class="size-full wp-image-904  " title="Image Alignment 150x150" alt="Image Alignment 150x150" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-150x150.jpg" width="150" height="150" /> Itty-bitty caption.[/caption]
+[caption id="attachment_904" align="alignleft" width="150"]<img class="size-full wp-image-904  " title="Image Alignment 150x150" alt="Image Alignment 150x150" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-150x150.jpg" width="150" height="150" /> Bigger caption than the image usually is.[/caption]
 
-<strong></strong>The rest of this paragraph is filler for the sake of seeing the text wrap around the 150x150 image, which is <em><strong>left aligned</strong></em>. <strong></strong>
+The rest of this paragraph is filler for the sake of seeing the text wrap around the 150x150 image, which is <em><strong>left aligned</strong></em>. 
 
 As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we'll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it's thang. Mission accomplished!
 
 And now for a <em><strong>massively large image</strong></em>. It also has <em><strong>no alignment</strong></em>.
 
-[caption id="attachment_907" align="alignnone" width="1200"]<img class=" wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" /> Massive image comment for your eyeballs.[/caption]
+[caption id="attachment_907" align="alignnone" width="1200"]<img class=" wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" /> Comment for massive image for your eyeballs.[/caption]
 
 The image above, though 1200px wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.
+[caption id="attachment_907" align="aligncenter" width="1200"]<img class=" wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" /> This massive image is centered.[/caption]
+
+And again with the big image centered. The image above, though 1200px wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.
 
 [caption id="attachment_905" align="alignright" width="300"]<img class="size-full wp-image-905 " title="Image Alignment 300x200" alt="Image Alignment 300x200" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-300x200.jpg" width="300" height="200" /> Feels good to be right all the time.[/caption]
 
@@ -6801,7 +6806,7 @@ And now we're going to shift things to the <em><strong>right align</strong></em>
 
 In just a bit here, you should see the text start to wrap below the right aligned image and settle in nicely. There should still be plenty of room and everything should be sitting pretty. Yeah... Just like that. It never felt so good to be right.
 
-And that's a wrap, yo! You survived the tumultuous waters of alignment. Image alignment achievement unlocked!]]></content:encoded>
+And that's a wrap, yo! You survived the tumultuous waters of alignment. Image alignment achievement unlocked! Last thing is a small image aligned right. Whatever follows should be unaffected. <img class="size-full wp-image-904 alignright" title="Image Alignment 150x150" alt="Image Alignment 150x150" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-150x150.jpg" width="150" height="150" />]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>1133</wp:post_id>
   <wp:post_date>2013-03-15 18:19:23</wp:post_date>
@@ -6947,7 +6952,7 @@ This tag styles blocks of code.
 	line-height: 1.2;
 	and here's a line of some really, really, really, really long text, just to see how it is handled and to find out how it overflows;
 }</code>
-You will learn later on in these tests that word-wrap: break-word;will be your best friend.
+You will learn later on in these tests that <code>word-wrap: break-word;</code> will be your best friend.
 
 <strong>Delete Tag</strong>
 
@@ -6974,8 +6979,8 @@ This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styl
 <strong>Preformatted Tag</strong>
 
 This tag is for preserving whitespace as typed, such as in poetry or ASCII art.
-<pre>
 <h2>The Road Not Taken</h2>
+<pre>
 <cite>Robert Frost</cite>
 
 
@@ -7185,6 +7190,103 @@ Multi line blockquote with a cite reference:
 	<li>List item three</li>
 	<li>List item four</li>
 </ol>
+
+<h2>HTML Tags</h2>
+These supported tags come from the WordPress.com code <a title="Code" href="https://en.support.wordpress.com/code/" rel="nofollow">FAQ</a>.
+
+<strong>Address Tag</strong>
+
+<address>1 Infinite Loop
+Cupertino, CA 95014
+United States</address><strong>Anchor Tag (aka. Link)</strong>
+
+This is an example of a <a title="WordPress Foundation" href="hhttps://wordpressfoundation.org/" rel="nofollow">link</a>.
+
+<strong>Abbreviation Tag</strong>
+
+The abbreviation <abbr title="Seriously">srsly</abbr> stands for "seriously".
+
+<strong>Acronym Tag (<em>deprecated in HTML5</em>)</strong>
+
+The acronym <acronym title="For The Win">ftw</acronym> stands for "for the win".
+
+<strong>Big Tag</strong> (<em>deprecated in HTML5</em>)
+
+These tests are a <big>big</big> deal, but this tag is no longer supported in HTML5.
+
+<strong>Cite Tag</strong>
+
+"Code is poetry." --<cite>Automattic</cite>
+
+<strong>Code Tag</strong>
+
+This tag styles blocks of code.
+<code>.post-title {
+	margin: 0 0 5px;
+	font-weight: bold;
+	font-size: 38px;
+	line-height: 1.2;
+	and here's a line of some really, really, really, really long text, just to see how it is handled and to find out how it overflows;
+}</code>
+You will learn later on in these tests that <code>word-wrap: break-word;</code> will be your best friend.
+
+<strong>Delete Tag</strong>
+
+This tag will let you <del cite="deleted it">strike out text</del>, but this tag is <em>recommended</em> supported in HTML5 (use the <code>&lt;s&gt;</code> instead).
+
+<strong>Emphasize Tag</strong>
+
+The emphasize tag should <em>italicize</em> <i>text</i>.
+
+<strong>Horizontal Rule Tag</strong>
+
+<hr />
+
+This sentence is following a <code>&lt;hr /&gt;</code> tag.
+
+<strong>Insert Tag</strong>
+
+This tag should denote <ins cite="inserted it">inserted</ins> text.
+
+<strong>Keyboard Tag</strong>
+
+This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the <code>&lt;code&gt;</code> tag.
+
+<strong>Preformatted Tag</strong>
+
+This tag is for preserving whitespace as typed, such as in poetry or ASCII art.
+<h2>The Road Not Taken</h2>
+<pre>
+<cite>Robert Frost</cite>
+
+  Two roads diverged in a yellow wood,
+  And sorry I could not travel both          (\_/)
+  And be one traveler, long I stood         (='.'=)
+  And looked down one as far as I could     (")_(")
+  To where it bent in the undergrowth;
+
+  Then took the other, as just as fair,
+  And having perhaps the better claim,          |\_/|
+  Because it was grassy and wanted wear;       / @ @ \
+  Though as for that the passing there        ( > º < )
+  Had worn them really about the same,         `>>x<<´
+                                               /  O  \
+  And both that morning equally lay
+  In leaves no step had trodden black.
+  Oh, I kept the first for another day!
+  Yet knowing how way leads on to way,
+  I doubted if I should ever come back.
+
+  I shall be telling this with a sigh
+  Somewhere ages and ages hence:
+  Two roads diverged in a wood, and I—
+  I took the one less traveled by,
+  And that has made all the difference.
+
+
+  and here's a line of some really, really, really, really long text, just to see how it is handled and to find out how it overflows;
+</pre>
+
 <strong>Quote Tag</strong> for short, inline quotes
 
 <q>Developers, developers, developers...</q> --Steve Ballmer
@@ -8064,7 +8166,7 @@ Post Page 3]]></content:encoded>
   <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 </item>
 <item>
-  <title>Markup: Title &lt;em&gt;With&lt;/em&gt; &lt;b&gt;Markup&lt;/b&gt;</title>
+  <title>Markup: Title <em>With</em> <b>Markup</b></title>
   <link>https://wpthemetestdata.wordpress.com/2013/01/05/markup-title-with-markup/</link>
   <pubDate>Sat, 05 Jan 2013 17:00:49 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
@@ -8072,8 +8174,8 @@ Post Page 3]]></content:encoded>
   <description/>
   <content:encoded><![CDATA[Verify that:
 <ul>
-	<li><span style="line-height:1.714285714;font-size:1rem;">The post title renders the word "with" in </span><em style="line-height:1.714285714;font-size:1rem;">italics</em><span style="line-height:1.714285714;font-size:1rem;"> and the word "markup" in </span><strong style="line-height:1.714285714;font-size:1rem;">bold</strong><span style="line-height:1.714285714;font-size:1rem;">.</span></li>
-	<li><span style="line-height:1.714285714;font-size:1rem;">The post title markup should be removed from the browser window / tab.</span></li>
+	<li>The post title renders the word "with" in <em>italics</em> and the word "markup" in <strong>bold</strong>.</li>
+	<li><strong>The post title markup should be removed from the browser window / tab.</strong></li>
 </ul>]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>1173</wp:post_id>
@@ -8342,11 +8444,11 @@ This is a paragraph. It should not have any alignment of any kind. It should jus
   <description/>
   <content:encoded><![CDATA[Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let's get started.
 
-On the topic of alignment, it should be noted that users can choose from the options of <em>None</em>, <em>Left</em>, <em>Right, </em>and <em>Center</em>. In addition, they also get the options of <em>Thumbnail</em>, <em>Medium</em>, <em>Large</em> &amp; <em>Fullsize</em>.
-<p style="text-align:center;"><img class="size-full wp-image-906 aligncenter" title="Image Alignment 580x300" alt="Image Alignment 580x300" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-580x300.jpg" width="580" height="300" /></p>
+On the topic of alignment, it should be noted that users can choose from the options of <em>None</em>, <em>Left</em>, <em>Right, </em>and <em>Center</em>. In addition, they also get the options of <em>Thumbnail</em>, <em>Medium</em>, <em>Large</em> &amp; <em>Fullsize</em>. Be sure to try this page in RTL mode and it should look the same as LTR. 
+<p><img class="size-full wp-image-906 aligncenter" title="Image Alignment 580x300" alt="Image Alignment 580x300" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-580x300.jpg" width="580" height="300" /></p>
 The image above happens to be <em><strong>centered</strong></em>.
 
-<strong><img class="size-full wp-image-904 alignleft" title="Image Alignment 150x150" alt="Image Alignment 150x150" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-150x150.jpg" width="150" height="150" /></strong>The rest of this paragraph is filler for the sake of seeing the text wrap around the 150x150 image, which is <em><strong>left aligned</strong></em>. <strong></strong>
+<img class="size-full wp-image-904 alignleft" title="Image Alignment 150x150" alt="Image Alignment 150x150" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-150x150.jpg" width="150" height="150" /> The rest of this paragraph is filler for the sake of seeing the text wrap around the 150x150 image, which is <em><strong>left aligned</strong></em>. 
 
 As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we'll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it's thang. Mission accomplished!
 
@@ -8355,6 +8457,10 @@ And now for a <em><strong>massively large image</strong></em>. It also has <em><
 <img class="alignnone  wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" />
 
 The image above, though 1200px wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.
+
+<img class="aligncenter  wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" />
+
+And we try the large image again, with the center alignment since that sometimes is a problem. The image above, though 1200px wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.
 
 <img class="size-full wp-image-905 alignright" title="Image Alignment 300x200" alt="Image Alignment 300x200" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-300x200.jpg" width="300" height="200" />
 
@@ -8368,17 +8474,20 @@ And just when you thought we were done, we're going to do them all over again wi
 
 The image above happens to be <em><strong>centered</strong></em>. The caption also has a link in it, just to see if it does anything funky.
 
-[caption id="attachment_904" align="alignleft" width="150"]<img class="size-full wp-image-904  " title="Image Alignment 150x150" alt="Image Alignment 150x150" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-150x150.jpg" width="150" height="150" /> Itty-bitty caption.[/caption]
+[caption id="attachment_904" align="alignleft" width="150"]<img class="size-full wp-image-904  " title="Image Alignment 150x150" alt="Image Alignment 150x150" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-150x150.jpg" width="150" height="150" /> Bigger caption than the image usually is.[/caption]
 
-<strong></strong>The rest of this paragraph is filler for the sake of seeing the text wrap around the 150x150 image, which is <em><strong>left aligned</strong></em>. <strong></strong>
+The rest of this paragraph is filler for the sake of seeing the text wrap around the 150x150 image, which is <em><strong>left aligned</strong></em>. 
 
 As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we'll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it's thang. Mission accomplished!
 
 And now for a <em><strong>massively large image</strong></em>. It also has <em><strong>no alignment</strong></em>.
 
-[caption id="attachment_907" align="alignnone" width="1200"]<img class=" wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" /> Massive image comment for your eyeballs.[/caption]
+[caption id="attachment_907" align="alignnone" width="1200"]<img class=" wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" /> Comment for massive image for your eyeballs.[/caption]
 
 The image above, though 1200px wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.
+[caption id="attachment_907" align="aligncenter" width="1200"]<img class=" wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" /> This massive image is centered.[/caption]
+
+And again with the big image centered. The image above, though 1200px wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.
 
 [caption id="attachment_905" align="alignright" width="300"]<img class="size-full wp-image-905 " title="Image Alignment 300x200" alt="Image Alignment 300x200" src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-300x200.jpg" width="300" height="200" /> Feels good to be right all the time.[/caption]
 
@@ -8548,7 +8657,7 @@ This tag styles blocks of code.
 	line-height: 1.2;
 	and here's a line of some really, really, really, really long text, just to see how it is handled and to find out how it overflows;
 }</code>
-You will learn later on in these tests that word-wrap: break-word;will be your best friend.
+You will learn later on in these tests that <code>word-wrap: break-word;</code> will be your best friend.
 
 <strong>Delete Tag</strong>
 
@@ -8575,8 +8684,8 @@ This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styl
 <strong>Preformatted Tag</strong>
 
 This tag is for preserving whitespace as typed, such as in poetry or ASCII art.
-<pre>
 <h2>The Road Not Taken</h2>
+<pre>
 <cite>Robert Frost</cite>
 
 
@@ -8752,7 +8861,7 @@ There are a few things to verify:
   <description/>
   <content:encoded><![CDATA[This is the post content. It should be displayed in place of the auto-generated excerpt in single-page views. Archive-index pages should display an auto-generated excerpt of this content. Depending on Theme-defined filters, the length of the auto-generated excerpt will vary from Theme-to-Theme. The default length for auto-generated excerpts is 55 words, so to test the excerpt auto-generation, this post must have more than 55 words.
 
-Be sure to test the formatting of the auto-generated excerpt, to ensure that it doesn't create any layout problems. Also, ensure that any filters applied to the excerpt, such as &lt;code&gt;excerpt_length&lt;/code&gt; and &lt;code&gt;excerpt_more&lt;/code&gt;, display properly.]]></content:encoded>
+Be sure to test the formatting of the auto-generated excerpt, to ensure that it doesn't create any layout problems. Also, ensure that any filters applied to the excerpt, such as <code>excerpt_length</code> and <code>excerpt_more</code>, display properly.]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>1446</wp:post_id>
   <wp:post_date>2012-03-14 09:49:22</wp:post_date>
@@ -8817,7 +8926,7 @@ Be sure to test the formatting of the auto-generated excerpt, to ensure that it 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"textColor":"very-light-gray","customBackgroundColor":"#cf2e2e"} -->
-<p style="background-color:#cf2e2e" class="has-text-color has-background has-very-light-gray-color">This paragraph is colorful, with a red background and white text.  Colored blocks should have a high enough contrast, so that the text is readable. </p>
+<p style="background-color:#cf2e2e" class="has-text-color has-background has-very-light-gray-color">This paragraph is colorful, with a red background and white text.  Colored blocks should have a high enough contrast, so that the text is readable. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"customTextColor":"#1e0566"} -->
@@ -8912,7 +9021,7 @@ data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/
 <!-- /wp:cover -->
 
 <!-- wp:paragraph -->
-<p>The file block has a setting that lets us show or hide a download button with editable text: </p>
+<p>The file block has a setting that lets us show or hide a download button with editable text: </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:file {"id":1690,"href":"https://wpthemetestdata.files.wordpress.com/2018/11/file_block.pdf"} -->
@@ -8985,7 +9094,7 @@ video/quicktime
 
 <!-- wp:code -->
 <pre class="wp-block-code"><code>The code block
-&lt;?php echo 'Hello World'; ?&gt;
+&lt;?php echo 'Hello World'; ?&gt;
 </code></pre>
 <!-- /wp:code -->
 
@@ -9220,11 +9329,11 @@ https://wordpress.tv/2018/10/14/kjell-reigstad-allan-cole-how-we-made-our-first-
     <category domain="category" nicename="media-2"><![CDATA[Media]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_874fe46ae491204826d1694d2ef33bc0]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">WordPress 5.0 Beta 2 <a href="https://t.co/Bn5QRqAwLN">https://t.co/Bn5QRqAwLN</a></p>&mdash; WordPress (@WordPress) <a href="https://twitter.com/WordPress/status/1057136472321613824?ref_src=twsrc%5Etfw">October 30, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">WordPress 5.0 Beta 2 <a href="https://t.co/Bn5QRqAwLN">https://t.co/Bn5QRqAwLN</a></p>&mdash; WordPress (@WordPress) <a href="https://twitter.com/WordPress/status/1057136472321613824?ref_src=twsrc%5Etfw">October 30, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_8391feecdd4849ee3e1e157e0c2149eb]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">WordPress 5.0 Beta 2 <a href="https://t.co/Bn5QRqAwLN">https://t.co/Bn5QRqAwLN</a></p>&mdash; WordPress (@WordPress) <a href="https://twitter.com/WordPress/status/1057136472321613824?ref_src=twsrc%5Etfw">October 30, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">WordPress 5.0 Beta 2 <a href="https://t.co/Bn5QRqAwLN">https://t.co/Bn5QRqAwLN</a></p>&mdash; WordPress (@WordPress) <a href="https://twitter.com/WordPress/status/1057136472321613824?ref_src=twsrc%5Etfw">October 30, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_8391feecdd4849ee3e1e157e0c2149eb]]></wp:meta_key>
@@ -9268,7 +9377,7 @@ https://wordpress.tv/2018/10/14/kjell-reigstad-allan-cole-how-we-made-our-first-
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_8c87a830bb75021cd30329a001513994]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">WordPress 5.0 Beta 2 <a href="https://t.co/Bn5QRqAwLN">https://t.co/Bn5QRqAwLN</a></p>&mdash; WordPress (@WordPress) <a href="https://twitter.com/WordPress/status/1057136472321613824?ref_src=twsrc%5Etfw">October 30, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">WordPress 5.0 Beta 2 <a href="https://t.co/Bn5QRqAwLN">https://t.co/Bn5QRqAwLN</a></p>&mdash; WordPress (@WordPress) <a href="https://twitter.com/WordPress/status/1057136472321613824?ref_src=twsrc%5Etfw">October 30, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_8c87a830bb75021cd30329a001513994]]></wp:meta_key>
@@ -9366,7 +9475,7 @@ This is a shortcode widget.
 		<content:encoded><![CDATA[<!-- wp:columns -->
 <div class="wp-block-columns has-2-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph -->
-<p>This page tests how the theme displays the columns block. The first block tests a two column block with  paragraphs.</p>
+<p>This page tests how the theme displays the columns block. The first block tests a two column block with  paragraphs.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -9669,7 +9778,7 @@ The third column block has 4 columns. Make sure that all the text is visible and
 <!-- /wp:paragraph -->
 
 <!-- wp:cover {"url":"https://wpthemetestdata.files.wordpress.com/2013/12/2014-slider-mobile-behavior.mov","id":1800,"dimRatio":60,"customOverlayColor":"#f4399d","backgroundType":"video"} -->
-<div class="wp-block-cover has-background-dim-60 has-background-dim" style="background-color:#f4399d"><video class="wp-block-cover__video-background" autoplay muted loop src="https://wpthemetestdata.files.wordpress.com/2013/12/2014-slider-mobile-behavior.mov"></video><p class="wp-block-cover-text"><a href="https://wordpress.org/gutenberg/">This page needed more pink</a>. </p></div>
+<div class="wp-block-cover has-background-dim-60 has-background-dim" style="background-color:#f4399d"><video class="wp-block-cover__video-background" autoplay muted loop src="https://wpthemetestdata.files.wordpress.com/2013/12/2014-slider-mobile-behavior.mov"></video><p class="wp-block-cover-text"><a href="https://wordpress.org/gutenberg/">This page needed more pink</a>. </p></div>
 <!-- /wp:cover -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1745</wp:post_id>
@@ -10071,7 +10180,7 @@ alt="Rusty Rail" data-id="764" data-link="https://wpthemetestdata.wordpress.com/
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>On the topic of alignment, it should be noted that users can choose from the options of <em>None</em>, <em>Left</em>, <em>Right, </em>and <em>Center</em>. If the theme has added support for <em>align wide</em>,&nbsp;images can also be <em>wide</em> and <em>full width</em>.</p>
+<p>On the topic of alignment, it should be noted that users can choose from the options of <em>None</em>, <em>Left</em>, <em>Right, </em>and <em>Center</em>. If the theme has added support for <em>align wide</em>,&nbsp;images can also be <em>wide</em> and <em>full width</em>. Be sure to test this page in RTL mode.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
