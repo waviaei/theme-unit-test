@@ -1113,7 +1113,6 @@
 	 <wp:post_type><![CDATA[post]]></wp:post_type>
 	 <wp:post_password><![CDATA[]]></wp:post_password>
 	 <wp:is_sticky>0</wp:is_sticky>
-   <category domain="category" nicename="block"><![CDATA[Block]]></category>
 	</item>
 	<item>
   <title>About The Tests</title>
@@ -9117,7 +9116,7 @@ The custom HTML block
 <!-- /wp:table -->
 
 <!-- wp:table {"hasFixedLayout":true,"className":"is-style-stripes"} -->
-<table class="wp-block-table has-fixed-layout is-style-stripes"><tbody><tr><td>This is the striped style.</td><td>This row should have a background color.</td></tr><tr><td>The cell next to this is empty.</td><td><br><br></td></tr><tr><td></td><td>This table has fixed with table cells.<br></td></tr><tr><td><br>Make sure that the text wraps correctly.<br><br></td><td></td></tr></tbody></table>
+<table class="wp-block-table has-fixed-layout is-style-stripes"><tbody><tr><td>This is the striped style.</td><td>This row should have a background color.</td></tr><tr><td>The cell next to this is empty.</td><td><br><br></td></tr><tr><td></td><td>This table has fixed width table cells.<br></td></tr><tr><td><br>Make sure that the text wraps correctly.<br><br></td><td></td></tr></tbody></table>
 <!-- /wp:table -->
 
 <!-- wp:verse -->
@@ -9423,7 +9422,9 @@ https://wordpress.tv/2018/10/14/kjell-reigstad-allan-cole-how-we-made-our-first-
 		<dc:creator>themereviewteam</dc:creator>
 		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1736</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:shortcode -->
+		<content:encoded><![CDATA[
+    <!-- wp:shortcode -->
+
 This is a shortcode widget.
 <!-- /wp:shortcode -->
 
@@ -9434,22 +9435,49 @@ This is a shortcode widget.
 <!-- wp:archives /-->
 
 <!-- wp:paragraph -->
-<p>Category widget:</p>
+
+<p>The same Archive widget but as a dropdown:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:categories /-->
+<!-- wp:archives {"displayAsDropdown":true,"showPostCounts":true} /-->
 
 <!-- wp:paragraph -->
-<p>Latest comments:</p>
+<p>The Category widget block has an additional option for showing category hierarchies:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:categories {"showHierarchy":true,"showPostCounts":true} /-->
+
+<!-- wp:paragraph -->
+<p>The Latest Comments widget can display or hide the avatars, the date, and the comment excerpt:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:latest-comments /-->
 
 <!-- wp:paragraph -->
-<p>Latest posts:</p>
+
+<p>Here is an example of the Comments widget with all the options disabled. The number of comments has been reduced to two.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:latest-posts /-->]]></content:encoded>
+<!-- wp:latest-comments {"commentsToShow":2,"displayAvatar":false,"displayDate":false,"displayExcerpt":false} /-->
+
+<!-- wp:paragraph -->
+<p>And here is the Latest Posts widget in the list view, with dates:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:latest-posts {"displayPostDate":true} /-->
+
+<!-- wp:paragraph -->
+<p>Grid view, now sorted from A -Z.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:latest-posts {"postLayout":"grid","order":"asc","orderBy":"title"} /-->
+
+<!-- wp:paragraph -->
+<p>You can also change the number of columns used to display the latest posts. The block below only displays posts from the Block category:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:latest-posts {"categories":"6","postsToShow":10,"displayPostDate":true,"postLayout":"grid","columns":5} /-->
+    ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1736</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-01 06:14:47]]></wp:post_date>
@@ -10005,9 +10033,8 @@ Francisco</figcaption></figure></li><li class="blocks-gallery-item"><figure><img
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":200} -->
-<div style="height:200px" aria-hidden="true" class="wp-block-spacer"></div>
+<div style="height:76px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
-
 
 <!-- wp:paragraph -->
 <p>A four column gallery with a wide width:</p>
