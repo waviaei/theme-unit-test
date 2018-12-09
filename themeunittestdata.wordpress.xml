@@ -9424,6 +9424,7 @@ https://wordpress.tv/2018/10/14/kjell-reigstad-allan-cole-how-we-made-our-first-
 		<description></description>
 		<content:encoded><![CDATA[
     <!-- wp:shortcode -->
+
 This is a shortcode widget.
 <!-- /wp:shortcode -->
 
@@ -9434,6 +9435,7 @@ This is a shortcode widget.
 <!-- wp:archives /-->
 
 <!-- wp:paragraph -->
+
 <p>The same Archive widget but as a dropdown:</p>
 <!-- /wp:paragraph -->
 
@@ -9452,6 +9454,7 @@ This is a shortcode widget.
 <!-- wp:latest-comments /-->
 
 <!-- wp:paragraph -->
+
 <p>Here is an example of the Comments widget with all the options disabled. The number of comments has been reduced to two.</p>
 <!-- /wp:paragraph -->
 
@@ -10032,7 +10035,6 @@ Francisco</figcaption></figure></li><li class="blocks-gallery-item"><figure><img
 <!-- wp:spacer {"height":200} -->
 <div style="height:76px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
-
 
 <!-- wp:paragraph -->
 <p>A four column gallery with a wide width:</p>
