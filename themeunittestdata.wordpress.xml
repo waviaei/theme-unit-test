@@ -6507,7 +6507,7 @@ audio/mpeg
   <description/>
   <content:encoded><![CDATA[This content is before the <a title="The More Tag" href="https://en.support.wordpress.com/splitting-content/more-tag/" target="_blank">more tag</a>.
 
-Right after this sentence should be a "continue reading" button of some sort.
+Right after this sentence should be a "continue reading" button of some sort on list pages of themes that show full content. It won't show on single pages or on themes showing excerpts.
 
 <!--more-->
 
@@ -9153,6 +9153,14 @@ The custom HTML block
 <div class="wp-block-button"><a class="wp-block-button__link">The button</a></div>
 <!-- /wp:button -->
 
+<!-- wp:paragraph -->
+<p>The read more block should be right below this text, but only on list pages of themes that show the full content. It won't show on the single page or on themes showing excerpts.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:more -->
+<!--more-->
+<!-- /wp:more -->
+
 <!-- wp:columns {"columns":4} -->
 <div class="wp-block-columns has-4-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph -->
@@ -9230,14 +9238,6 @@ The custom HTML block
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
-
-<!-- wp:paragraph -->
-<p>The read more block should be right below this text:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:more -->
-<!--more-->
-<!-- /wp:more -->
 
 <!-- wp:paragraph -->
 <p>And finally, the page break:</p>
