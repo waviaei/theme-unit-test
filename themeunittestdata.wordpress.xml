@@ -10780,8 +10780,8 @@ The third column block has 4 columns. Make sure that all the text is visible and
 <p>You can change the color of the border and the text with the regular style:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:pullquote {"mainColor":"vivid-red","textColor":"very-dark-gray","className":"is-style-default"} -->
-<figure class="wp-block-pullquote is-style-default" style="border-color:#cf2e2e"><blockquote class="has-text-color has-very-dark-gray-color"><p><br>In addition to the quote block, we also have the&nbsp;pull quote</p><cite>Theme reviewer<br></cite></blockquote></figure>
+<!-- wp:pullquote {"customMainColor":"#b80000","textColor":"light-gray"} -->
+<figure class="wp-block-pullquote" style="border-color:#b80000"><blockquote class="has-text-color has-light-gray-color"><p>In addition to the quote block, we also have the pull quote</p><cite>Theme Reviewer</cite></blockquote></figure>
 <!-- /wp:pullquote -->
 
 <!-- wp:paragraph -->
