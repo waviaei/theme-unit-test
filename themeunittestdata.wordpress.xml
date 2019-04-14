@@ -10017,7 +10017,7 @@ The custom HTML block
 <!-- /wp:columns -->
 
 <!-- wp:media-text {"mediaId":757,"mediaType":"image"} -->
-<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="https://wpthemetestdata.files.wordpress.com/2008/06/dcp_2082.jpg" alt="Boardwalk"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…","fontSize":"large"} -->
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="https://wpthemetestdata.files.wordpress.com/2008/06/dcp_2082.jpg" alt="Boardwalk" class="wp-image-757"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…","fontSize":"large"} -->
 <p class="has-large-font-size">Media &amp;Text</p>
 <!-- /wp:paragraph -->
 
@@ -10026,10 +10026,11 @@ The custom HTML block
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:media-text -->
 
-<!-- wp:media-text {"align":"full","customBackgroundColor":"#ebf5fe","mediaPosition":"right","mediaId":755,"mediaType":"image","mediaWidth":54,"isStackedOnMobile":true} -->
-<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile" style="background-color:#ebf5fe;grid-template-columns:auto 54%"><figure class="wp-block-media-text__media"><img src="http://localhost:8080/wp-content/uploads/2011/07/100_5540-33.jpg" alt="Golden Gate Bridge"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->
-<p>This time our block is full width, and the image is to the right. </p>
-<!-- /wp:paragraph -->
+<!-- wp:media-text {"align":"full","customBackgroundColor":"#ebf5fe","mediaPosition":"right","mediaId":755,"mediaType":"image","isStackedOnMobile":true} -->
+<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile" style="background-color:#ebf5fe"><figure class="wp-block-media-text__media"><img src="https://wpthemetestdata.files.wordpress.com/2008/06/100_5540.jpg" alt="Golden Gate Bridge" class="wp-image-755"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…","fontSize":"large"} -->
+<p class="has-large-font-size">This time our block is full width, and the image is to the right.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
 
 <!-- wp:paragraph -->
 <p>The background color is a pale blue.&nbsp;</p>
@@ -10041,8 +10042,7 @@ The custom HTML block
 
 <!-- wp:paragraph -->
 <p>The control these settings, the block uses the css classes "has-media-on-the-right" and "is-stacked-on-mobile".</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:media-text -->
+<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p>The separator has three styles: short line, wide line, and dots.</p>
@@ -10546,7 +10546,7 @@ The third column block has 4 columns. Make sure that all the text is visible and
 <!-- /wp:paragraph -->
 
 <!-- wp:media-text {"mediaId":617,"mediaType":"image"} -->
-<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050813_115856_52.jpg" alt="dsc20050813_115856_52"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…","fontSize":"large"} -->
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050813_115856_52.jpg" alt="dsc20050813_115856_52" class="wp-image-617/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…","fontSize":"large"} -->
 <p class="has-large-font-size">Media &amp; Text</p>
 <!-- /wp:paragraph -->
 
