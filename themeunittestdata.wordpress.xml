@@ -8994,7 +8994,7 @@ Post Page 3]]></content:encoded>
   <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 </item>
 <item>
-  <title>Markup: Title <em>With</em> <b>Markup</b></title>
+  <title><![CDATA[Markup: Title <em>With</em> <b>Mark<sup>up</sup></b>]]></title>
   <link>https://wpthemetestdata.wordpress.com/2013/01/05/markup-title-with-markup/</link>
   <pubDate>Sat, 05 Jan 2013 17:00:49 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
@@ -9002,7 +9002,7 @@ Post Page 3]]></content:encoded>
   <description/>
   <content:encoded><![CDATA[Verify that:
 <ul>
-	<li>The post title renders the word "with" in <em>italics</em> and the word "markup" in <strong>bold</strong>.</li>
+	<li>The post title renders the word "with" in <em>italics</em> and the word "markup" in <strong>bold</strong> (and "up" is <sup>super</sup>script).</li>
 	<li><strong>The post title markup should be removed from the browser window / tab.</strong></li>
 </ul>]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
