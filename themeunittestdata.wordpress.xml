@@ -10325,7 +10325,7 @@ This is a shortcode widget.
 <item>
 		<title>Block: Columns</title>
 		<link>https://wpthemetestdata.wordpress.com/2018/11/02/block-columns/</link>
-		<pubDate>Sat, 03 Nov 2018 12:20:00 +0000</pubDate>
+		<pubDate>Fri, 02 Nov 2018 12:10:00 +0000</pubDate>
 		<dc:creator>themereviewteam</dc:creator>
 		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1743</guid>
 		<description></description>
@@ -10560,8 +10560,8 @@ The third column block has 4 columns. Make sure that all the text is visible and
 <!-- /wp:media-text -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1743</wp:post_id>
-		<wp:post_date><![CDATA[2018-11-03 12:20:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-11-03 12:20:00]]></wp:post_date_gmt>
+		<wp:post_date><![CDATA[2018-11-02 12:10:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-11-02 12:10:00]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[column-blocks]]></wp:post_name>
@@ -10577,7 +10577,7 @@ The third column block has 4 columns. Make sure that all the text is visible and
 <item>
 		<title>Block: Cover</title>
 		<link>https://wpthemetestdata.wordpress.com/2018/11/02/block-cover/</link>
-		<pubDate>Sat, 03 Nov 2018 12:20:00 +0000</pubDate>
+		<pubDate>Sat, 03 Nov 2018 12:25:00 +0000</pubDate>
 		<dc:creator>themereviewteam</dc:creator>
 		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1745</guid>
 		<description></description>
@@ -10639,8 +10639,8 @@ The third column block has 4 columns. Make sure that all the text is visible and
 <!-- /wp:cover -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1745</wp:post_id>
-		<wp:post_date><![CDATA[2018-11-03 12:20:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-11-03 12:20:00]]></wp:post_date_gmt>
+		<wp:post_date><![CDATA[2018-11-03 12:25:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-11-03 12:25:00]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[block-cover]]></wp:post_name>
@@ -10655,7 +10655,7 @@ The third column block has 4 columns. Make sure that all the text is visible and
 <item>
 		<title>Block: Button</title>
 		<link>https://wpthemetestdata.wordpress.com/2018/11/02/block-button/</link>
-		<pubDate>Sat, 03 Nov 2018 12:20:00 +0000</pubDate>
+		<pubDate>Sat, 03 Nov 2018 13:20:00 +0000</pubDate>
 		<dc:creator>themereviewteam</dc:creator>
 		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1747</guid>
 		<description></description>
@@ -10728,8 +10728,8 @@ The third column block has 4 columns. Make sure that all the text is visible and
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1747</wp:post_id>
-		<wp:post_date><![CDATA[2018-11-03 12:20:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-11-03 12:20:00]]></wp:post_date_gmt>
+		<wp:post_date><![CDATA[2018-11-03 13:20:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-11-03 13:20:00]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[block-button]]></wp:post_name>
@@ -11027,7 +11027,7 @@ alt="Rusty Rail" data-id="764" data-link="https://wpthemetestdata.wordpress.com/
   <item>
 		<title>Block: Image</title>
 		<link>https://wpthemetestdata.wordpress.com/2018/11/03/block-image/</link>
-		<pubDate>Sat, 03 Nov 2018 12:20:00 +0000</pubDate>
+		<pubDate>Sat, 03 Nov 2018 15:20:00 +0000</pubDate>
 		<dc:creator>themereviewteam</dc:creator>
 		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1755</guid>
 		<description></description>
@@ -11160,8 +11160,8 @@ alt="Rusty Rail" data-id="764" data-link="https://wpthemetestdata.wordpress.com/
 <!-- /wp:image -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1755</wp:post_id>
-		<wp:post_date><![CDATA[2018-11-03 12:20:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-11-03 12:20:00]]></wp:post_date_gmt>
+		<wp:post_date><![CDATA[2018-11-03 15:20:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-11-03 15:20:00]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[block-image]]></wp:post_name>
