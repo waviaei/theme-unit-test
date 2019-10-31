@@ -2,6 +2,8 @@ This is an attempt to find the diff between the latest English theme unit test, 
 
 I have found that, basically, they are the posts dated after October 2018. So you can do `wp export --start_date=2018-10-01` to exprt the posts that are different. In numbers there are 13 posts in total: 10 blck posts, 1 keyboard navigation post, and one scheduled post for 2030. `en-theme-unit-test-post-oct-2018_2019-07-30.000.xml` file is this export as of 2019-07-30.
 
+`block-posts-partly-translated.2019-10-31.xml` is a partially translated file of above. There are 13 in there, including non-blocks. Seven are translated. Fore more to go. Also two that has not to do with this, nees update.
+
 # theme-unit-test
 Theme Unit Test
 
